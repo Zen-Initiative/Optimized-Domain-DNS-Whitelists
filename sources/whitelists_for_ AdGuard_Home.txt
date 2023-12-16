@@ -1,0 +1,10 @@
+# ABP/uBO/AdGuard-syntax whitelists for AdGuard Home
+
+## TogoFire-Home: AdGuard-Home-Whitelist
+https://raw.githubusercontent.com/TogoFire-Home/AD-Settings/main/Filters/whitelist.txt	
+
+## hg1978 AdGuard-Home-Whitelist
+https://raw.githubusercontent.com/hg1978/AdGuard-Home-Whitelist/master/whitelist.txt
+
+## DandelionSprout AdGuard-Home-Whitelist (forked from hg1978 whitelist, no update since Oct 2020)
+## https://raw.githubusercontent.com/DandelionSprout/AdGuard-Home-Whitelist/master/whitelist.txt
