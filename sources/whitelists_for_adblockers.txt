@@ -1,5 +1,6 @@
 # ABP/uBO/AdGuard-syntax whitelists 
-# (built for AdGuard Home, should work in ABP/uBO, sans any filters written in AdGuard-only syntax)
+# Built for AdGuard Home, should work in ABP/uBO, sans any filters written in AdGuard-only syntax
+# Need further processing to change the syntax to use as DNS whitelists
 
 ## TogoFire-Home: AdGuard-Home-Whitelist
 https://raw.githubusercontent.com/TogoFire-Home/AD-Settings/main/Filters/whitelist.txt	
