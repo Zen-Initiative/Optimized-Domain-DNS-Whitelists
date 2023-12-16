@@ -1,4 +1,4 @@
-# ABP/uBO/AdGuard-syntax whitelists for AdGuard Home
+# ABP/uBO/AdGuard-syntax whitelists
 
 ## TogoFire-Home: AdGuard-Home-Whitelist
 https://raw.githubusercontent.com/TogoFire-Home/AD-Settings/main/Filters/whitelist.txt	
