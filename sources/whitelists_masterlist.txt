@@ -1,5 +1,5 @@
-Whitelists - all sources (masterlist)
-Last update: 17 Dec 2023
+# Whitelists - all sources (masterlist)
+# Last update: 17 Dec 2023 v2
 
 
 #######################################################################################################
@@ -13,7 +13,7 @@ Last update: 17 Dec 2023
 
 
 ####################################################################################################### 
-# Aggregated sources of whitelists (deprecated lists have been removed - see the end of this file)
+# Collections of whitelists (see below for deprecated lists that are still included in these sources)  
 ## Oisd: https://oisd.nl/includedlists/whitelists 
 ## Blokada: https://github.com/blokadaorg/landing-github-pages/blob/master/scripts/whitelist-sets
 ## FadeMind: https://github.com/FadeMind/hosts.whitelists/ 
@@ -23,11 +23,14 @@ Last update: 17 Dec 2023
 #######################################################################################################
 # Core whitelists
 
-## Oisd whitelist (based on Pi-hole community list)
+## AdGuard DNSFilter whitelist
+https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt
+
+## Commonly whitelisted domains (compiled by Oisd from Pi-hole community list)
 https://local.oisd.nl/extract/commonly_whitelisted.php
 
-## AdGuard whitelist
-https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt
+## Oisd excluded domains
+https://oisd.nl/excludes.php
 
 ## Hagezi whitelist
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt
