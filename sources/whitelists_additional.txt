@@ -1,33 +1,33 @@
-# Additional whitelists																																														
-																																																																			  																																																																	  
-## URL shortners (x3)																												
-https://raw.githubusercontent.com/boutetnico/url-shorteners/master/list.txt									 							
-https://raw.githubusercontent.com/PeterDaveHello/url-shorteners/master/list								 						
-https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener								 			
-																																																																			  
-## AdGuard Https Exclusions																										
-https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/firefox.txt								 		
-https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/mac.txt								 			
-https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/android.txt								 		
-https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/banks.txt										
+# Additional whitelists
+ 
+## URL shortners (x3)
+https://raw.githubusercontent.com/boutetnico/url-shorteners/master/list.txt
+https://raw.githubusercontent.com/PeterDaveHello/url-shorteners/master/list
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
+ 
+## AdGuard Https Exclusions
+https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/firefox.txt 
+https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/mac.txt
+https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/android.txt 
+https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/banks.txt
 https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/issues.txt
 https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/sensitive.txt
 https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/windows.txt
 
 ## Discord whitelist
-https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/official-domains.txt								 			
+https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/official-domains.txt
 
 ## Referral whitelist
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt												
-	
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt
+
 ## Torrent trackers
-https://raw.githubusercontent.com/im-sm/Pi-hole-Torrent-Blocklist/main/all-torrent-trackres.txt								 	
+https://raw.githubusercontent.com/im-sm/Pi-hole-Torrent-Blocklist/main/all-torrent-trackres.txt 
 
 ## China CDN domain whitelist
-https://raw.githubusercontent.com/mawenjian/china-cdn-domain-whitelist/master/china-cdn-domain-whitelist.txt						
+https://raw.githubusercontent.com/mawenjian/china-cdn-domain-whitelist/master/china-cdn-domain-whitelist.txt
 
 ## Blokada subdomain whitelist
-https://github.com/blokadaorg/landing-github-pages/blob/master/scripts/whitelist-subdomains	 
+https://github.com/blokadaorg/landing-github-pages/blob/master/scripts/whitelist-subdomains 
 
 ## Blokada whitelists
 (1) "manual" = presumably Blokada's own whitelist
@@ -35,17 +35,17 @@ https://github.com/blokadaorg/landing-github-pages/blob/master/scripts/whitelist
 See https://github.com/blokadaorg/landing-github-pages/blob/master/scripts/gen-whitelist.py
 Both lists contain whole domains ("facebook.com", "google.com", etc). Depending on your blocking method, this can potentially 
 whitelist/unblock all the subdomains of these websites, leading to possible false negatives (e.g. tracking subdomains unblocked).
-https://raw.githubusercontent.com/blokadaorg/landing-github-pages/master/scripts/whitelist						 			 							 			 	
+https://raw.githubusercontent.com/blokadaorg/landing-github-pages/master/scripts/whitelist 
 https://raw.githubusercontent.com/blokadaorg/landing-github-pages/master/scripts/whitelist-manual
 
-## zoonderkins (@ookangzheng) whitelist - seems to focus on Chinese-language websites																			 	
+## zoonderkins (@ookangzheng) whitelist - seems to focus on Chinese-language websites 
 https://raw.githubusercontent.com/zoonderkins/blahdns/master/hosts/whitelist.txt
 
-## ShadowWhisperer whitelist	- software, apps, games, smart TV, major tech websites, referrals, etc 				 			        
-https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Whitelists/Whitelist											
+## ShadowWhisperer whitelist- software, apps, games, smart TV, major tech websites, referrals, etc 
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Whitelists/Whitelist
 
-## DNS Warden whitelists	- google.com
+## DNS Warden whitelists
 ## "whitelistcommon.txt" contains whole domains ("google.com", etc). Depending on your blocking method, this can potentially 
-## whitelist/unblock all the subdomains of these websites, leading to possible false negatives (e.g. tracking subdomains unblocked). 			
-https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/tinylist.txt						 			    
-https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt						 			
+## whitelist/unblock all the subdomains of these websites, leading to possible false negatives (e.g. tracking subdomains unblocked). 
+https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/tinylist.txt 
+https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt 
