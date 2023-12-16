@@ -13,7 +13,7 @@ Last update: 16 Dec 2023
 
 
 ####################################################################################################### 
-# Curated from the following sources (deprecated whitelists have been removed; see the end of the file)  
+# Aggregated sources of whitelists (deprecated lists have been removed - see the end of this file)
 ## Oisd: https://oisd.nl/includedlists/whitelists 
 ## Blokada:  https://github.com/blokadaorg/landing-github-pages/blob/master/scripts/whitelist-sets
 ## FadeMind: https://github.com/FadeMind/hosts.whitelists/ 
