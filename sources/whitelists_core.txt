@@ -1,0 +1,20 @@
+# Core whitelists
+
+## Oisd whitelist (based on Pi-hole community list)
+https://local.oisd.nl/extract/commonly_whitelisted.php
+
+## AdGuard whitelist
+https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt
+
+## Hagezi whitelist
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt
+
+## Ultimate Hosts Blacklist whitelist
+https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list
+
+## 1Hosts whitelist
+https://raw.githubusercontent.com/badmojr/1Hosts/master/submit_here/exclude_for_all.txt
+
+## Malware-Filter whitelists
+https://gitlab.com/malware-filter/urlhaus-filter/-/raw/main/src/exclude.txt
+https://gitlab.com/malware-filter/phishing-filter/-/raw/main/src/exclude.txt
