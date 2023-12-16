@@ -1,10 +1,13 @@
 # Core whitelists
 
-## Oisd whitelist (based on Pi-hole community list)
+## AdGuard DNSFilter whitelist
+https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt
+
+## Commonly whitelisted domains (compiled by Oisd from Pi-hole community list)
 https://local.oisd.nl/extract/commonly_whitelisted.php
 
-## AdGuard whitelist
-https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt
+## Oisd excluded domains
+https://oisd.nl/excludes.php
 
 ## Hagezi whitelist
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt
