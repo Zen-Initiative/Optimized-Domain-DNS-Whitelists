@@ -5,9 +5,10 @@ Last update: 16 Dec 2023
 #######################################################################################################
 # Including:
 ## whitelists_core.txt
+## whitelists_windows.txt (only for Windows updates & security-related features; disable if not needed)
 ## whitelists_additional.txt (all switched off by default)
-## whitelists_deprecated.txt (all switched off by default)
 ## whitelists_for_adblockers.txt (all switched off by default due to syntax incompatibility)
+## whitelists_deprecated.txt (all switched off by default)
 #######################################################################################################
 
 
@@ -44,7 +45,21 @@ https://gitlab.com/malware-filter/phishing-filter/-/raw/main/src/exclude.txt
 
 
 #######################################################################################################
-# Additional whitelists (not currently used - enable selected lists if you need) 
+# Windows whitelists - only for Windows updates and security-related features
+
+## Core Windows (Security-Related) Domains Whitelist
+## Our own lightweight whitelist for core Windows/Microsoft/Outlook security-related features.
+## Including only MS Defender, SmartScreen, Outlook Safelinks, and Windows Update for home/enterprise Windows users.
+https://raw.githubusercontent.com/Zen-Initiative/Core-Windows-Security-Domains-Whitelist/main/whitelist_windows_security_core.txt
+
+## WindowsSpyBlocker - update.txt (meant to block Windows Update, but has been used as a whitelist as well)
+## Last update: May 2022
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/dnscrypt/update.txt
+#######################################################################################################
+
+
+#######################################################################################################
+# Additional whitelists (not currently used - enable selected lists if needed) 
  
 ## URL shortners (x3) 
 ## https://raw.githubusercontent.com/boutetnico/url-shorteners/master/list.txt  
