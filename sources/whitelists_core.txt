@@ -3,9 +3,6 @@
 ## AdGuard DNSFilter whitelist
 https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt
 
-## Oisd excluded domains
-https://oisd.nl/excludes.php
-
 ## Hagezi whitelist
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt
 
