@@ -15,10 +15,12 @@ Direct link:
 The "core" list is our recommended whitelist built from carefully selected community sources, with the following features:  
   
 - High Confidence & Lightweight: we only include domains/subdomains that have appeared twice or more in our core sources:
+  - Domains/subdomains are only included if they are in two or more sources (high certainty that they should be whitelisted/unblocked).  
   - If a domain and its subdomain(s) are both in the sources, we only include the subdomain(s) for precision targeting.
-  - Other domains are only included if they are in two or more sources (high certainty that they should be whitelisted/unblocked).  
   
-  These features help us avoid "over-whitelisting" (unblocking things that should be blocked) while minimizing the size of the whitelist.
+  See [examples](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/wiki/Domain-inclusion-in-our-whitelists) in our wiki.
+    
+These features help us avoid "over-whitelisting" (unblocking things that should be blocked) while minimizing the size of the whitelist.
 
 - Included:
   - [Core lists](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/sources/whitelists_core.txt) (x6)
@@ -86,6 +88,8 @@ You can also use the [scripts](https://github.com/Zen-Initiative/Optimized-Domai
 | Core | High Confidence & Lightweight Whitelisting | [core-domain-whitelist-optimized.txt](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/whitelists/core-domain-whitelist-optimized.txt) |
 | Extended | More Extensive Whitelisting | [extended-domain-whitelist-optimized.txt](https://raw.githubusercontent.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/main/whitelists/extended-domain-whitelist-optimized.txt) |
 | Comprohensive | Broad-Spectrum Whitelisting | [comprehensive-domain-whitelist-optimized.txt](https://raw.githubusercontent.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/main/whitelists/comprehensive-domain-whitelist-optimized.txt) |
+  
+See [examples of how domains/subdomains are included](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/wiki/Domain-inclusion-in-our-whitelists) in our wiki.
 
 ---
 
