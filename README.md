@@ -14,7 +14,7 @@ Direct link:
 
 The "core" list is our recommended whitelist built from carefully selected community sources, with the following features:  
   
-- High Confidence & Lightweight: we only include domains/subdomains that have appeared twice in our sources:
+- High Confidence & Lightweight: we only include domains/subdomains that have appeared twice or more in our core sources:
   - If a domain and its subdomain(s) are both in the sources, we only include the subdomain(s) for precision targeting.
   - Other domains are only included if they are in two or more sources (high certainty that they should be whitelisted/unblocked).  
   
@@ -28,14 +28,28 @@ The "core" list is our recommended whitelist built from carefully selected commu
   - [Syntax-imcompitable lists](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/sources/whitelists_for_adblockers.txt)
   - [Other lists](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/sources/whitelists_additional.txt) for specific regions/purposes
 - Removed:
-  - All duplicates and duplicate subdomains in the final list. 
+  - All duplicates and duplicate subdomains. 
 
 --- 
 
 #### 💕 Extended Domain/DNS Whitelist (optimized)
 
 Direct link:  
+[https://raw.githubusercontent.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/main/whitelists/extended-domain-whitelist-optimized.txt](https://raw.githubusercontent.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/main/whitelists/extended-domain-whitelist-optimized.txt)
 
+The "extended" list includes the following features:
+
+- All domains/subdomains from the core sources are included, regardless of how many times they have appeared in different sources.
+- Suitable for more extensive whitelisting (the rest is the same as the core list).
+- Included:
+  - [Core lists](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/sources/whitelists_core.txt) (x5)
+  - [Windows lists](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/sources/whitelists_windows.txt) (x2, only for Windows Update and security-related features).
+- Excluded:
+  - [Deprecated lists](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/sources/whitelists_deprecated.txt)
+  - [Syntax-imcompitable lists](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/sources/whitelists_for_adblockers.txt)
+  - [Other lists](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/sources/whitelists_additional.txt) for specific regions/purposes
+- Removed:
+  - All duplicates and duplicate subdomains. 
 
 --- 
 
