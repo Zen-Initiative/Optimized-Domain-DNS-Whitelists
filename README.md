@@ -87,7 +87,7 @@ You can also use the [scripts](https://github.com/Zen-Initiative/Optimized-Domai
 | -------- | -------- | -------- |
 | Core | High Confidence & Lightweight Whitelisting | [core-domain-whitelist-optimized.txt](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/whitelists/core-domain-whitelist-optimized.txt) |
 | Extended | More Extensive Whitelisting | [extended-domain-whitelist-optimized.txt](https://raw.githubusercontent.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/main/whitelists/extended-domain-whitelist-optimized.txt) |
-| Comprohensive | Broad-Spectrum Whitelisting | [comprehensive-domain-whitelist-optimized.txt](https://raw.githubusercontent.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/main/whitelists/comprehensive-domain-whitelist-optimized.txt) |
+| Comprehensive | Broad-Spectrum Whitelisting | [comprehensive-domain-whitelist-optimized.txt](https://raw.githubusercontent.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/main/whitelists/comprehensive-domain-whitelist-optimized.txt) |
   
 See [examples of how domains/subdomains are included](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/wiki/Domain-inclusion-in-our-whitelists) in our wiki.
 
