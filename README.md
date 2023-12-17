@@ -89,3 +89,10 @@ You can also use the [scripts](https://github.com/Zen-Initiative/Optimized-Domai
 
 ---
 
+#### ⚙️ Scripts
+
+Most [scripts](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/tree/main/.scripts) in this repo are adapted from [generate-domains-blocklist.py](https://github.com/DNSCrypt/dnscrypt-proxy/blob/master/utils/generate-domains-blocklist/generate-domains-blocklist.py) from the DNSCrypt-proxy project.  
+  
+The original script was designed to build aggregated blocklists - we have re-purposed it with a few tweaks and changes to generate and optimize whitelists.
+
+---
