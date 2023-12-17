@@ -58,7 +58,7 @@ The "extended" list includes the following features:
 Direct link:  
 [https://raw.githubusercontent.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/main/whitelists/comprehensive-domain-whitelist-optimized.txt](https://raw.githubusercontent.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/main/whitelists/comprehensive-domain-whitelist-optimized.txt)
 
-The "comprehensive" list includes almost all the sources that we have found that are still actively maintained and syntax-compatible:
+The "comprehensive" list includes almost all the sources we have found that are still actively maintained and syntax-compatible:
 
 - Aggregated from a large number of community whitelists.
 - Suitable for comprehensive whitelisting (as broad as possible).
