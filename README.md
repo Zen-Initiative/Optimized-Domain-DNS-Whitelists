@@ -79,3 +79,13 @@ The "comprehensive" list includes almost all the sources that we have found that
 You can also use the [scripts](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/tree/main/.scripts) and [source lists](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/tree/main/sources) to customize and generate your own whitelist(s) to suit your needs.
 
 ---
+
+#### ✔️ Summary
+| Whitelist | Description | Link |
+| -------- | -------- | -------- |
+| Core | High Confidence & Lightweight Whitelisting | [core-domain-whitelist-optimized.txt](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/whitelists/core-domain-whitelist-optimized.txt) |
+| Extended | More Extensive Whitelisting | [extended-domain-whitelist-optimized.txt](https://raw.githubusercontent.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/main/whitelists/extended-domain-whitelist-optimized.txt) |
+| Comprohensive | Broad-Spectrum Whitelisting | [comprehensive-domain-whitelist-optimized.txt](https://raw.githubusercontent.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/main/whitelists/comprehensive-domain-whitelist-optimized.txt) |
+
+---
+
