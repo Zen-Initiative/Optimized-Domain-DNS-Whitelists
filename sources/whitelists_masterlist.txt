@@ -1,5 +1,5 @@
 # Whitelists - all sources (masterlist)
-# Last update: 17 Dec 2023 v3
+# Last update: 17 Dec 2023 v5
 
 
 #######################################################################################################
@@ -13,7 +13,7 @@
 
 
 ####################################################################################################### 
-# Collections of whitelists (see below for deprecated lists that are still included in these sources)  
+# Other collections of whitelists (see below for deprecated lists that may be included in these sources)  
 ## Oisd: https://oisd.nl/includedlists/whitelists 
 ## Blokada: https://github.com/blokadaorg/landing-github-pages/blob/master/scripts/whitelist-sets
 ## FadeMind: https://github.com/FadeMind/hosts.whitelists/ 
@@ -25,9 +25,6 @@
 
 ## AdGuard DNSFilter whitelist
 https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt
-
-## Oisd excluded domains
-https://oisd.nl/excludes.php
 
 ## Hagezi whitelist
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt
@@ -87,10 +84,10 @@ https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/dnscry
 ## China CDN domain whitelist
 ## https://raw.githubusercontent.com/mawenjian/china-cdn-domain-whitelist/master/china-cdn-domain-whitelist.txt 
 
-## Blokada subdomain whitelist
+## Blokada subdomain whitelist (subdomains only: www, api, cdn ...)
 ## https://github.com/blokadaorg/landing-github-pages/blob/master/scripts/whitelist-subdomains  
 
-## Blokada whitelists
+## Blokada whitelists (mostly aggregated from 3rd-party sources) 
 ## (1) "manual" = presumably Blokada's own whitelist
 ## (2) "whitelist" = "manual" + 3rd-party lists (including several duplicate & deprecated lists)
 ## Both lists contain whole domains ("facebook.com", "google.com", etc). Depending on your blocking method, this can potentially 
@@ -114,6 +111,10 @@ https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/dnscry
 ## Contains whole domains ("facebook.com" etc). Depending on your blocking method, this can potentially whitelist/unblock 
 ## all the subdomains of these websites, leading to possible false negatives (e.g. tracking subdomains unblocked). 
 ## https://local.oisd.nl/extract/commonly_whitelisted.php
+
+## Oisd excluded domains (aggregated from 3rd-party sources: https://oisd.nl/includedlists/whitelists)
+## Needs to be convereted to plain text to use as DNS whitelist
+## https://oisd.nl/excludes.php
 #######################################################################################################
 
 
