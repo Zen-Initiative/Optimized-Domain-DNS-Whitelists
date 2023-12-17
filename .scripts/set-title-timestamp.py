@@ -4,9 +4,9 @@ from datetime import datetime, timezone
 
 CURRENT_TIME = datetime.now(tz=timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
-TITLE1 = "# Title: Core domain/DNS whitelist (optimized)"
-TITLE2 = "# Title: Extended domain/DNS whitelist (optimized)"
-TITLE3 = "# Title: Comprehensive domain/DNS whitelist (optimized)"
+TITLE1 = "# Title: Core Domain/DNS Whitelist (optimized)"
+TITLE2 = "# Title: Extended Domain/DNS Whitelist (optimized)"
+TITLE3 = "# Title: Comprehensive Domain/DNS Whitelist (optimized)"
 TIME = f"# Updated: {CURRENT_TIME}"
 EXPIRE = "# Expires: 31 days (update frequency also depends on upstream sources)"
 HOME = "# Homepage: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/"
