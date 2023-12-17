@@ -1,4 +1,4 @@
-# Title: Comprehensive domain/DNS whitelist (optimized)
+# Title: Comprehensive Domain/DNS Whitelist (optimized)
 # Updated: 2023-12-17T06:27:18Z
 # Expires: 31 days (update frequency also depends on upstream sources)
 # Homepage: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/
