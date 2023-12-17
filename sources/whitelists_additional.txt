@@ -26,8 +26,8 @@ https://raw.githubusercontent.com/im-sm/Pi-hole-Torrent-Blocklist/main/all-torre
 ## China CDN domain whitelist
 https://raw.githubusercontent.com/mawenjian/china-cdn-domain-whitelist/master/china-cdn-domain-whitelist.txt
 
-## Blokada subdomain whitelist
-https://github.com/blokadaorg/landing-github-pages/blob/master/scripts/whitelist-subdomains 
+## Blokada subdomain whitelist (subdomains only: www, api, cdn ...)
+## https://github.com/blokadaorg/landing-github-pages/blob/master/scripts/whitelist-subdomains 
 
 ## Blokada whitelists
 (1) "manual" = presumably Blokada's own whitelist
@@ -54,3 +54,7 @@ https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whi
 ## Contains whole domains ("facebook.com" etc). Depending on your blocking method, this can potentially whitelist/unblock 
 ## all the subdomains of these websites, leading to possible false negatives (e.g. tracking subdomains unblocked). 
 https://local.oisd.nl/extract/commonly_whitelisted.php
+
+## Oisd excluded domains (aggregated from 3rd-party sources: https://oisd.nl/includedlists/whitelists)
+## Needs to be converted to plain text to use as DNS whitelist
+## https://oisd.nl/excludes.php
