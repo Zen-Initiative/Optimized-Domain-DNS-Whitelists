@@ -12,7 +12,7 @@ Whitelists to remove false positives from DNS blocklists, hosts files, Pi-Hole b
 Direct link:  
 [https://raw.githubusercontent.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/main/whitelists/core-domain-whitelist-optimized.txt](https://raw.githubusercontent.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/main/whitelists/core-domain-whitelist-optimized.txt)
 
-The "core" list is our recommended whitelist built from carefully selected community whitelists, with the following features:  
+The "core" list is our recommended whitelist built from carefully selected community sources, with the following features:  
   
 - High Confidence & Lightweight: we only include domains/subdomains that have appeared twice in our sources:
   - If a domain and its subdomain(s) are both in the sources, we only include the subdomain(s) for precision targeting.
@@ -32,14 +32,14 @@ The "core" list is our recommended whitelist built from carefully selected commu
 
 --- 
 
-#### Extended Domain/DNS Whitelist (optimized)
+#### 💕 Extended Domain/DNS Whitelist (optimized)
 
 Direct link:  
 
 
 --- 
 
-#### Comprehensive Domain/DNS Whitelist (optimized)
+#### 💞 Comprehensive Domain/DNS Whitelist (optimized)
 
 Direct link:  
 
