@@ -1,13 +1,13 @@
 # 👻Optimized Domain/DNS Whitelists
 
-Whitelists to unblock websites/apps and remove false positives from DNS blocklists, hosts files, Pi-Hole blocklists, and other types of filter lists.
+Whitelists to remove false positives from DNS blocklists, hosts files, Pi-Hole blocklists, and other types of filter lists.
 - Curated: carefully selected from many well-known community sources.
 - Optimized: deprecated lists excluded + duplicates removed + other optimization.
 - Customizable: three versions available, and you can use the [script](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/tree/main/.scripts) and [source lists](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/tree/main/sources) to customize and generate your own whitelist(s).
 
 --- 
 
-#### Core Domain/DNS Whitelist (optimized)
+#### 💖 Core Domain/DNS Whitelist (optimized)
 
 Direct link:  
 [https://raw.githubusercontent.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/main/whitelists/core-domain-whitelist-optimized.txt](https://raw.githubusercontent.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/main/whitelists/core-domain-whitelist-optimized.txt)
