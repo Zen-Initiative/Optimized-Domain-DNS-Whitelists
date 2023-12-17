@@ -20,7 +20,7 @@ The "core" list is our recommended whitelist built from carefully selected commu
   
   See [examples](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/wiki/Domain-inclusion-in-our-whitelists) in our wiki.
     
-These features help us avoid "over-whitelisting" (unblocking things that should be blocked) while minimizing the size of the whitelist.
+  These features help us avoid "over-whitelisting" (unblocking things that should be blocked) while minimizing the size of the whitelist.
 
 - Included:
   - [Core lists](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/sources/whitelists_core.txt) (x6)
