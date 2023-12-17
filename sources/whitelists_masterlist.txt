@@ -26,9 +26,6 @@
 ## AdGuard DNSFilter whitelist
 https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt
 
-## Commonly whitelisted domains (compiled by Oisd from Pi-hole community list)
-https://local.oisd.nl/extract/commonly_whitelisted.php
-
 ## Oisd excluded domains
 https://oisd.nl/excludes.php
 
@@ -112,6 +109,11 @@ https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/dnscry
 ## whitelist/unblock all the subdomains of these websites, leading to possible false negatives (e.g. tracking subdomains unblocked). 
 ## https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/tinylist.txt  
 ## https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt 
+
+## Commonly whitelisted domains (compiled by Oisd from Pi-hole community list)
+## Contains whole domains ("facebook.com" etc). Depending on your blocking method, this can potentially whitelist/unblock 
+## all the subdomains of these websites, leading to possible false negatives (e.g. tracking subdomains unblocked). 
+## https://local.oisd.nl/extract/commonly_whitelisted.php
 #######################################################################################################
 
 
