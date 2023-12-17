@@ -113,7 +113,7 @@ https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/dnscry
 ## https://local.oisd.nl/extract/commonly_whitelisted.php
 
 ## Oisd excluded domains (aggregated from 3rd-party sources: https://oisd.nl/includedlists/whitelists)
-## Needs to be convereted to plain text to use as DNS whitelist
+## Needs to be converted to plain text to use as DNS whitelist
 ## https://oisd.nl/excludes.php
 #######################################################################################################
 
