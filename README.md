@@ -98,3 +98,9 @@ The original script was designed to build blocklists - we have re-purposed it wi
 For example, the original script would remove the duplicates between different sources, and we have used this function to find overlaps between sources to build our high-confidence core list, while generating the extended list at the same time.
 
 ---
+
+### License
+This project: [Creative Commons Zero v1.0 Universal](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/LICENSE)  
+Original script (from DNSCrypt-proxy): [ISC License](https://github.com/DNSCrypt/dnscrypt-proxy/blob/master/LICENSE)  
+
+---
