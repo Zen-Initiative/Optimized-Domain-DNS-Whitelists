@@ -48,4 +48,9 @@ https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Whitelists/W
 ## "whitelistcommon.txt" contains whole domains ("google.com", etc). Depending on your blocking method, this can potentially 
 ## whitelist/unblock all the subdomains of these websites, leading to possible false negatives (e.g. tracking subdomains unblocked). 
 https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/tinylist.txt 
-https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt 
+https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt
+
+## Commonly whitelisted domains (compiled by Oisd from Pi-hole community list)
+## Contains whole domains ("facebook.com" etc). Depending on your blocking method, this can potentially whitelist/unblock 
+## all the subdomains of these websites, leading to possible false negatives (e.g. tracking subdomains unblocked). 
+https://local.oisd.nl/extract/commonly_whitelisted.php
