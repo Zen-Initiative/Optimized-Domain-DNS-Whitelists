@@ -1,7 +1,5 @@
 @echo on
 
-:: cd %USERPROFILE%\Downloads\Blocklist\whitelists
-
 :: Generate core and extended domain whitelists
 python gen-core-ex-whitelists.py > extended-domain-whitelist-optimized.txt
 
@@ -14,5 +12,5 @@ python gen-comp-whitelists.py > comprehensive-domain-whitelist-optimized.txt
 :: Add title and timestamp
 python set-title-timestamp.py
 
-:: Clean up - ::ove interim file(s)
+:: Clean up - remove interim file(s)
 del overlaps-raw.txt
