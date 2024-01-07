@@ -1,5 +1,5 @@
 # Whitelists - all sources (masterlist)
-# Last update: 17 Dec 2023 v5
+# Last update: 07 Jan 2024 v5.5
 
 
 #######################################################################################################
@@ -25,9 +25,6 @@
 
 ## AdGuard DNSFilter whitelist
 https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt
-
-## Hagezi whitelist
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt
 
 ## Ultimate Hosts Blacklist whitelist
 https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list
@@ -136,7 +133,10 @@ https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/dnscry
 
 #######################################################################################################
 # Deprecated whitelists  
- 
+  
+## Hagezi whitelist (No longer publicly available (?) since Jan 2024)
+## https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt
+  
 ## Notracking whitelist (deprecated in June 2023; containing whole domains of Top100/500 websites, not fit for purpose)
 ## https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt  
  
