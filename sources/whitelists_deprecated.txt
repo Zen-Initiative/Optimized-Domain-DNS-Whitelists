@@ -1,5 +1,8 @@
 # Deprecated whitelists 
  
+## Hagezi whitelist (No longer publicly available (?) since Jan 2024)
+## https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt
+  
 ## Notracking whitelist (deprecated in June 2023; containing whole domains of Top100/500 websites, not fit for purpose)
 ## https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt 
  
