@@ -23,7 +23,7 @@ The "core" list is our recommended whitelist built from carefully selected commu
   These features help us avoid "over-whitelisting" (unblocking things that should be blocked) while minimizing the size of the whitelist.
 
 - Included:
-  - [Core lists](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/sources/whitelists_core.txt) (x6)
+  - [Core lists](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/sources/whitelists_core.txt) (x5)
   - [Windows lists](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/sources/whitelists_windows.txt) (x2, only for Windows Update and security-related features)
 - Excluded:
   - [Deprecated lists](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/sources/whitelists_deprecated.txt)
@@ -44,7 +44,7 @@ The "extended" list includes the following features:
 - All domains/subdomains from the core sources are included, regardless of how many times they have appeared in different sources.
 - Suitable for more extensive whitelisting (the rest is the same as the core list).
 - Included:
-  - [Core lists](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/sources/whitelists_core.txt) (x6)
+  - [Core lists](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/sources/whitelists_core.txt) (x5)
   - [Windows lists](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/sources/whitelists_windows.txt) (x2, only for Windows Update and security-related features)
 - Excluded:
   - [Deprecated lists](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/sources/whitelists_deprecated.txt)
@@ -65,9 +65,9 @@ The "comprehensive" list includes almost all the sources we have found that are 
 - Aggregated from a large number of community whitelists.
 - Suitable for comprehensive whitelisting (as broad as possible).
 - Included:
-  - [Core lists](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/sources/whitelists_core.txt) (x6)
+  - [Core lists](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/sources/whitelists_core.txt) (x5)
   - [Windows lists](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/sources/whitelists_windows.txt) (x2, only for Windows Update and security-related features)
-  - Almost everything from [other lists](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/sources/whitelists_additional.txt) (x21, see the link for detail)
+  - Almost everything from [other lists](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/sources/whitelists_additional.txt) (x20, see the link for detail)
 - Excluded:
   - [Deprecated lists](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/sources/whitelists_deprecated.txt)
   - [Syntax-imcompitable lists](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/sources/whitelists_for_adblockers.txt)
