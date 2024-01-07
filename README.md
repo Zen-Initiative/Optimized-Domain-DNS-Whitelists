@@ -97,7 +97,7 @@ See [examples of how domains/subdomains are included](https://github.com/Zen-Ini
 
 Most [scripts](https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/tree/main/.scripts) in this repo are adapted from [generate-domains-blocklist.py](https://github.com/DNSCrypt/dnscrypt-proxy/blob/master/utils/generate-domains-blocklist/generate-domains-blocklist.py) from the DNSCrypt-proxy project.  
   
-The original script was designed to build blocklists - we have re-purposed it with some changes to generate/optimize whitelists.
+The original script was designed to build blocklists - we have re-purposed it to generate/optimize whitelists.
 
 For example, the original script would remove the duplicates between different sources, and we have used this function to find overlaps between sources to build our high-confidence core list, while generating the extended list at the same time.
 
