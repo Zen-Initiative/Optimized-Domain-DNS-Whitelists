@@ -17,9 +17,6 @@ https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/
 ## Discord whitelist
 https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/official-domains.txt
 
-## Referral whitelist
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt
-
 ## Torrent trackers
 https://raw.githubusercontent.com/im-sm/Pi-hole-Torrent-Blocklist/main/all-torrent-trackres.txt 
 
