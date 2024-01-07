@@ -3,6 +3,10 @@
 ## Hagezi whitelist (No longer publicly available (?) since Jan 2024)
 ## https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt
   
+## Hagezi referral whitelist (No longer publicly available (?) since Jan 2024)
+## https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt 
+## Pi-hole (RegEx) version is still available at https://github.com/hagezi/dns-blocklists/blob/main/regex/whitelist-referral-pihole.txt 
+  
 ## Notracking whitelist (deprecated in June 2023; containing whole domains of Top100/500 websites, not fit for purpose)
 ## https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt 
  
