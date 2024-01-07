@@ -3,9 +3,6 @@
 ## AdGuard DNSFilter whitelist
 https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt
 
-## Hagezi whitelist
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt
-
 ## Ultimate Hosts Blacklist whitelist
 https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list
 
