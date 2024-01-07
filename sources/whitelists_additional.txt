@@ -27,11 +27,11 @@ https://raw.githubusercontent.com/mawenjian/china-cdn-domain-whitelist/master/ch
 ## https://github.com/blokadaorg/landing-github-pages/blob/master/scripts/whitelist-subdomains 
 
 ## Blokada whitelists
-(1) "manual" = presumably Blokada's own whitelist
-(2) "whitelist" = "manual" + 3rd-party lists (including several duplicate & deprecated lists)
-See https://github.com/blokadaorg/landing-github-pages/blob/master/scripts/gen-whitelist.py
-Both lists contain whole domains ("facebook.com", "google.com", etc). Depending on your blocking method, this can potentially 
-whitelist/unblock all the subdomains of these websites, leading to possible false negatives (e.g. tracking subdomains unblocked).
+## (1) "manual" = presumably Blokada's own whitelist
+## (2) "whitelist" = "manual" + 3rd-party lists (including several duplicate & deprecated lists)
+## See https://github.com/blokadaorg/landing-github-pages/blob/master/scripts/gen-whitelist.py
+## Both lists contain whole domains ("facebook.com", "google.com", etc). Depending on your blocking method, this can potentially 
+## whitelist/unblock all the subdomains of these websites, leading to possible false negatives (e.g. tracking subdomains unblocked).
 https://raw.githubusercontent.com/blokadaorg/landing-github-pages/master/scripts/whitelist 
 https://raw.githubusercontent.com/blokadaorg/landing-github-pages/master/scripts/whitelist-manual
 
