@@ -1,5 +1,5 @@
 # Title: Core Domain/DNS Whitelist (optimized)
-# Updated: 2024-01-10T03:39:55Z
+# Updated: 2024-01-10T04:14:28Z
 # Expires: 31 days (update frequency also depends on upstream sources)
 # Homepage: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/
 # License: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/LICENSE
@@ -131,6 +131,9 @@ download.microsoft.com
 delivery.mp.microsoft.com
 prod.do.dsp.mp.microsoft.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
+data-edge.smartscreen.microsoft.com
+nav-edge.smartscreen.microsoft.com
+ping-edge.smartscreen.microsoft.com
 update.microsoft.com
 emdl.ws.microsoft.com
 dns.msftncsi.com
