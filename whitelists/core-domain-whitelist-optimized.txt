@@ -1,5 +1,5 @@
 # Title: Core Domain/DNS Whitelist (optimized)
-# Updated: 2024-01-10T02:14:35Z
+# Updated: 2024-01-10T03:39:55Z
 # Expires: 31 days (update frequency also depends on upstream sources)
 # Homepage: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/
 # License: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/LICENSE
@@ -126,18 +126,13 @@ snap.licdn.com
 static.licdn.com
 jobs.lifehacker.com
 api.log4jmemes.com
-browser.events.data.microsoft.com
 definitionupdates.microsoft.com
 download.microsoft.com
 delivery.mp.microsoft.com
 prod.do.dsp.mp.microsoft.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
-data-edge.smartscreen.microsoft.com
-nav-edge.smartscreen.microsoft.com
-ping-edge.smartscreen.microsoft.com
 update.microsoft.com
 emdl.ws.microsoft.com
-www.msftconnecttest.com
 dns.msftncsi.com
 g.msn.com
 ios.prod.http1.netflix.com
