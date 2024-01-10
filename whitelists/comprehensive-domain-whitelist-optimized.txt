@@ -1,5 +1,5 @@
 # Title: Comprehensive Domain/DNS Whitelist (optimized)
-# Updated: 2024-01-07T01:23:15Z
+# Updated: 2024-01-10T02:14:35Z
 # Expires: 31 days (update frequency also depends on upstream sources)
 # Homepage: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/
 # License: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/LICENSE
@@ -36,7 +36,7 @@ a2z.com
 try.abtasty.com
 adcell.com
 static.addtoany.com
-app.adjust.com
+adjust.com
 admitad.com
 adobedtm.com
 loader.adrelayer.com
@@ -881,6 +881,7 @@ onet.pl
 pilkanozna.pl
 pkobp.pl
 player.pl
+py.pl
 radiostacja.pl
 satkurier.pl
 sport.pl
@@ -2148,8 +2149,9 @@ pomoc.o2.pl
 
 ########## Whitelist from https://raw.githubusercontent.com/Zen-Initiative/Core-Windows-Security-Domains-Whitelist/main/whitelist_windows_security_core.txt ##########
 
-# Ignored duplicates: 18
+# Ignored duplicates: 31
 
+ocsp.digicert.com
 msftconnecttest.com
 
 
@@ -4071,6 +4073,7 @@ oerk.at
 shortr.at
 tprurl.at
 urlshortener.at
+shortlink.com.au
 useek.com.au
 seby.au
 fw.ax
@@ -4142,6 +4145,7 @@ bitlz.cc
 calcol.cc
 ez1.cc
 fbook.cc
+go2u.cc
 goldn.cc
 ifnews.cc
 j2c.cc
@@ -4291,6 +4295,7 @@ has.coffee
 4afw4.com
 4qzr.com
 4ton.com
+4uid.com
 5278url.com
 5ahgwd5.com
 5qzr.com
@@ -4323,6 +4328,7 @@ aorracer.com
 parg.aparg.com
 apticirl.com
 arserike.com
+aryenmotors.com
 atglinks.com
 audiof.com
 aveerro.com
@@ -4518,6 +4524,7 @@ redirme.com
 remwoodworkingmachineexpo.com
 repfredcamillo.com
 reshort.com
+romcomedies.com
 rounash.com
 goo-gl.ru.com
 ruhgsliughs.com
@@ -5075,6 +5082,7 @@ bee-kz.life
 highends.life
 insdr.life
 iyc.life
+kuoo.life
 therockinghuts.life
 win7.life
 2bio.link
@@ -5100,6 +5108,7 @@ leit.link
 litly.link
 maejo.link
 mihan.link
+minimy.link
 mt77.link
 nils.link
 nin.link
@@ -5109,6 +5118,7 @@ ph88.link
 pixel.link
 premex.link
 putar.link
+q8at.link
 rx.link
 saasmaster.link
 short-url.link
@@ -5437,6 +5447,7 @@ sah.ooo
 1ir.org
 6ct.org
 albn.org
+anacon.org
 2022.bhscovid.org
 entry.bhscovid.org
 pcr.bhscovid.org
@@ -5444,6 +5455,7 @@ testing.bhscovid.org
 cbtfgive.org
 goto.cream.org
 dcbspage.org
+efraising.org
 f5i.org
 ipkill.org
 javadocs.org
@@ -5719,6 +5731,7 @@ eit.tw
 ptr.tw
 tiny.tw
 go.bath.ac.uk
+ourmagazines.co.uk
 trimlink.co.uk
 urlshortener.co.uk
 crnw.uk
@@ -10230,6 +10243,7 @@ tracker.anima.nz
 tracker.loli.co.nz
 tracker1.loli.co.nz
 trackme.theom.nz
+tracker.vds.nz
 tracker.corpscorp.online
 wassermann.online
 mail.artixlinux.org
@@ -10683,7 +10697,7 @@ newdefend.org
 
 ########## Whitelist from https://raw.githubusercontent.com/blokadaorg/landing-github-pages/master/scripts/whitelist ##########
 
-# Ignored duplicates: 8839
+# Ignored duplicates: 8840
 
 tvaddons.ag
 ckk.ai
@@ -11036,7 +11050,6 @@ detik.com
 deviantart.com
 dhgate.com
 dictionary.com
-ocsp.digicert.com
 sh.docs.dingtalk.com
 weboffice-static.docs.dingtalk.com
 down-cdn.dingtalk.com

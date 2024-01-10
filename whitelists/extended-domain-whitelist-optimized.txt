@@ -1,5 +1,5 @@
 # Title: Extended Domain/DNS Whitelist (optimized)
-# Updated: 2024-01-07T01:23:15Z
+# Updated: 2024-01-10T02:14:35Z
 # Expires: 31 days (update frequency also depends on upstream sources)
 # Homepage: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/
 # License: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/LICENSE
@@ -41,7 +41,7 @@ a2z.com
 try.abtasty.com
 adcell.com
 static.addtoany.com
-app.adjust.com
+adjust.com
 admitad.com
 adobedtm.com
 loader.adrelayer.com
@@ -988,6 +988,7 @@ onet.pl
 pilkanozna.pl
 pkobp.pl
 player.pl
+py.pl
 radiostacja.pl
 satkurier.pl
 sport.pl
@@ -2430,16 +2431,22 @@ pomoc.o2.pl
 
 ########## Whitelist from https://raw.githubusercontent.com/Zen-Initiative/Core-Windows-Security-Domains-Whitelist/main/whitelist_windows_security_core.txt ##########
 
-# Ignored duplicates: 3
+# Ignored duplicates: 11
 
+ocsp.digicert.com
+checkappexec.microsoft.com
 crl.microsoft.com
 data.microsoft.com
 definitionupdates.microsoft.com
 download.microsoft.com
 go.microsoft.com
 delivery.mp.microsoft.com
+prod.do.dsp.mp.microsoft.com
+tsfe.trafficshaping.dsp.mp.microsoft.com
 ntservicepack.microsoft.com
 smartscreen.microsoft.com
+smartscreen-prod.microsoft.com
+storecatalogrevocation.storequality.microsoft.com
 update.microsoft.com
 wd.microsoft.com
 wdcp.microsoft.com
@@ -2452,14 +2459,12 @@ data.microsoft.com.akadns.net
 
 ########## Whitelist from https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/dnscrypt/update.txt ##########
 
-# Ignored duplicates: 287
+# Ignored duplicates: 289
 
 neu-displaycatalogrp.frontdoor.bigcatalog.commerce.microsoft.com
 displaycatalog.mp.microsoft.com
 geo-prod.do.dsp.mp.microsoft.com
 geover-prod.do.dsp.mp.microsoft.com
-prod.do.dsp.mp.microsoft.com
-tsfe.trafficshaping.dsp.mp.microsoft.com
 displaycatalog.md.mp.microsoft.com
 ws.microsoft.com
 arc-apac.msn.com
