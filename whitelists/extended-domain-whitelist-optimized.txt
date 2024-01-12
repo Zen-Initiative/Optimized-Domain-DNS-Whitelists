@@ -1,5 +1,5 @@
 # Title: Extended Domain/DNS Whitelist (optimized)
-# Updated: 2024-01-10T04:14:28Z
+# Updated: 2024-01-12T04:50:02Z
 # Expires: 31 days (update frequency also depends on upstream sources)
 # Homepage: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/
 # License: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/LICENSE
@@ -178,6 +178,7 @@ browser.events.data.microsoft.com
 minexmr.com
 mixpanel.com
 moshimo.com
+mparticle.com
 mql5.com
 msgfocus.com
 g.msn.com
@@ -436,7 +437,7 @@ trust.zone
 
 ########## Whitelist from https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list ##########
 
-# Ignored duplicates: 87
+# Ignored duplicates: 88
 
 media-lab.ai
 gmx.at
@@ -874,7 +875,6 @@ t.ly
 st.mycdn.me
 j.mp
 70i.net
-a1014.g.akamai.net
 e3489.cd.akamaiedge.net
 alternativeto.net
 manifest.prod.boltdns.net
@@ -1038,7 +1038,7 @@ theregister.co.uk
 
 ########## Whitelist from https://raw.githubusercontent.com/badmojr/1Hosts/master/submit_here/exclude_for_all.txt ##########
 
-# Ignored duplicates: 121
+# Ignored duplicates: 123
 
 api.services.abbott
 burningseries.ac
@@ -1937,8 +1937,6 @@ yostar.aihelp.net
 stats.gc-apple.com.akadns.net
 smp-device-content.lb-apple.com.akadns.net
 smp-device-content-us.lb-apple.com.akadns.net
-a1168.g.akamai.net
-a2047.r.akamai.net
 e9959.dsce9.akamaiedge.net
 jep-asset.akamaized.net
 statics-marketingsites-neu-ms-com.akamaized.net
@@ -2454,6 +2452,7 @@ wdcp.microsoft.com
 wdcpalt.microsoft.com
 windowsupdate.microsoft.com
 www.microsoft.com
+akamai.net
 
 
 ########## Whitelist from https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/dnscrypt/update.txt ##########

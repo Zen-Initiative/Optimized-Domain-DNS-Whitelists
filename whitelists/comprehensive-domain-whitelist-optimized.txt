@@ -1,5 +1,5 @@
 # Title: Comprehensive Domain/DNS Whitelist (optimized)
-# Updated: 2024-01-10T04:14:28Z
+# Updated: 2024-01-12T04:50:02Z
 # Expires: 31 days (update frequency also depends on upstream sources)
 # Homepage: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/
 # License: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/LICENSE
@@ -160,6 +160,7 @@ micpn.com
 minexmr.com
 mixpanel.com
 moshimo.com
+mparticle.com
 mql5.com
 msgfocus.com
 mybannermaker.com
@@ -401,7 +402,7 @@ trust.zone
 
 ########## Whitelist from https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list ##########
 
-# Ignored duplicates: 161
+# Ignored duplicates: 162
 
 media-lab.ai
 gmx.at
@@ -780,7 +781,6 @@ t.ly
 st.mycdn.me
 j.mp
 70i.net
-a1014.g.akamai.net
 e3489.cd.akamaiedge.net
 alternativeto.net
 manifest.prod.boltdns.net
@@ -929,7 +929,7 @@ theregister.co.uk
 
 ########## Whitelist from https://raw.githubusercontent.com/badmojr/1Hosts/master/submit_here/exclude_for_all.txt ##########
 
-# Ignored duplicates: 233
+# Ignored duplicates: 235
 
 api.services.abbott
 burningseries.ac
@@ -1743,8 +1743,6 @@ cdn.abcotvs.net
 blog.adoptium.net
 cdnconfig.aihelp.net
 yostar.aihelp.net
-a1168.g.akamai.net
-a2047.r.akamai.net
 e9959.dsce9.akamaiedge.net
 medias.arturia.net
 static.arturia.net
@@ -2152,6 +2150,7 @@ pomoc.o2.pl
 # Ignored duplicates: 29
 
 ocsp.digicert.com
+akamai.net
 
 
 ########## Whitelist from https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/dnscrypt/update.txt ##########
@@ -5958,7 +5957,7 @@ zoom.us
 
 ########## Whitelist from https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/banks.txt ##########
 
-# Ignored duplicates: 176
+# Ignored duplicates: 183
 
 rakbankonline.ae
 internetbank.armbusinessbank.am
@@ -6101,19 +6100,21 @@ it.tb.by
 tbank.trustbank.by
 ibank.zepterbank.by
 secured.acu.ca
-personal.affinitycu.ca
-ids.alterna.ca
+affinitycu.ca
+alterna.ca
 banquelaurentienne.ca
 bnc.ca
 chasecanada.ca
 signin.ebay.ca
 eqbank.ca
 fbngp.ca
+firstwestcu.ca
 hsbc.ca
-secured.scu.mb.ca
+scu.mb.ca
 meridiancu.ca
 secure.pcfinancial.ca
-banking.servus.ca
+prospera.ca
+servus.ca
 simpletax.ca
 tangerine.ca
 scalable.capital
@@ -6312,7 +6313,7 @@ mbz19n.accounts.clickbank.com
 cmbchina.com
 cnb.com
 coastal24.com
-banking.coastcapitalsavings.com
+coastcapitalsavings.com
 cobinhood.com
 coinbase.com
 colpatria.com
@@ -6557,6 +6558,7 @@ qnb.com
 ib.qnbalahli.com
 qnbfinansbank.com
 qweb.quercia.com
+questrade.com
 moj.raiffeisenpolbank.com
 razorpay.com
 rbcroyalbank.com
@@ -6656,7 +6658,7 @@ dbo1.uralfinance.com
 usaa.com
 onlinebanking.usbank.com
 vakifbankusa.com
-login.vancity.com
+vancity.com
 vanguard.com
 vol.venezolano.com
 venmo.com
@@ -8461,6 +8463,7 @@ theworldexchange.net
 unicreditbanking.net
 univest.net
 wideup.net
+card-form.diehard.yandex.net
 celsius.network
 abnamro.nl
 asnbank.nl
@@ -9566,7 +9569,6 @@ api.surfeasy.com
 theluckygene.com
 api.viber.com
 nuernberg.de
-mapcam.info
 speedport.ip
 postacertificata.lextel.it
 line.naver.jp
@@ -9949,6 +9951,7 @@ potuk.com
 pow7.com
 tracker.publicbt.com
 puresynergy.com
+tr.qfruiti.com
 9.rarbg.com
 dpiui.reedlan.com
 torrent.resonatingmedia.com
@@ -10027,6 +10030,7 @@ ns331480.ip-37-187-121.eu
 47.ip-51-68-199.eu
 ns349743.ip-91-121-106.eu
 open.lolicon.eu
+martin-gebhardt.eu
 62-210-114-129.rev.poneytelecom.eu
 ipv4announce.sktorrent.eu
 tehconnection.eu
@@ -10075,6 +10079,7 @@ t3.leech.ie
 tracker.leech.ie
 evan.im
 tracker.jordan.im
+tr.qfruiti.in
 1337.abcvg.info
 bitsparadise.info
 bt.edwardk.info
@@ -10243,7 +10248,9 @@ tracker.loli.co.nz
 tracker1.loli.co.nz
 trackme.theom.nz
 tracker.vds.nz
+aboutbeautifulgallopinghorsesinthegreenpasture.online
 tracker.corpscorp.online
+shahidrazi.online
 wassermann.online
 mail.artixlinux.org
 torrents.artixlinux.org
@@ -10359,6 +10366,7 @@ blackz.ro
 elitezones.ro
 laszlo130.go.ro
 metal.iplay.ro
+tracker.dev-null.rocks
 drteam.rocks
 opentracker.i2p.rocks
 thagoat.rocks
@@ -10696,7 +10704,7 @@ newdefend.org
 
 ########## Whitelist from https://raw.githubusercontent.com/blokadaorg/landing-github-pages/master/scripts/whitelist ##########
 
-# Ignored duplicates: 8839
+# Ignored duplicates: 8841
 
 tvaddons.ag
 ckk.ai
@@ -12095,6 +12103,7 @@ www.inf
 differencebetween.info
 hardreset.info
 api.hostip.info
+mapcam.info
 worldometers.info
 mez.ink
 who.int
@@ -12212,9 +12221,6 @@ js-assets.aiv-cdn.net
 ters-vod1.us-east-1.aiv-delivery.net
 akadns.net
 akadns6.net
-a90.g.akamai.net
-a463.w10.akamai.net
-a790.w16.akamai.net
 e1102.a.akamaiedge.net
 e16973.a.akamaiedge.net
 e1151.e12.akamaiedge.net
@@ -12662,7 +12668,7 @@ gumtree.co.za
 
 ########## Whitelist from https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Whitelists/Whitelist ##########
 
-# Ignored duplicates: 489
+# Ignored duplicates: 490
 
 oneclient.sfx.ms
 
