@@ -1,5 +1,5 @@
 # Title: Comprehensive Domain/DNS Whitelist (optimized)
-# Updated: 2024-01-12T04:50:02Z
+# Updated: 2024-01-22T00:46:10Z
 # Expires: 31 days (update frequency also depends on upstream sources)
 # Homepage: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/
 # License: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/LICENSE
@@ -67,6 +67,7 @@ bpmonline.com
 bugherd.com
 bugsnag.com
 bytedance.com
+cameraprive.com
 captcha-display.com
 chtbl.com
 cint.com
@@ -100,6 +101,7 @@ enter-system.com
 etracker.com
 exchange4media.com
 extreme-ip-lookup.com
+fapality.com
 fastly-analytics.com
 fireworkapi.com
 fireworktv.com
@@ -107,6 +109,7 @@ fitanalytics.com
 flipp.com
 flocktory.com
 forexprostools.com
+freeadultcomix.com
 g17media.com
 georiot.com
 geotrust.com
@@ -181,6 +184,9 @@ pinpoll.com
 pizzaandads.com
 plerdy.com
 podtrac.com
+porn300.com
+porndroids.com
+porntry.com
 postclickmarketing.com
 productsup.com
 proofpoint.com
@@ -197,6 +203,7 @@ res-x.com
 researchintel.com
 rollbar.com
 rubiconproject.com
+runetki.com
 rusmedserv.com
 sailthru.com
 sajari.com
@@ -205,6 +212,7 @@ sascdn.com
 scorecardresearch.com
 sematext.com
 sendpulse.com
+sexuhot.com
 shareasale.com
 shopimind.com
 sift.com
@@ -245,6 +253,7 @@ vectorstock.com
 viglink.com
 sonar.viously.com
 visualwebsiteoptimizer.com
+voyeurhit.com
 we-stats.com
 webclicks24.com
 webengage.com
@@ -383,6 +392,7 @@ news.smi2.ru
 top-shop.ru
 toptracker.ru
 uralweb.ru
+vsexshop.ru
 tns-sifo.se
 ippen.space
 adj.st
@@ -3302,7 +3312,6 @@ zipr.ir
 zurl.ir
 beats.is
 bitly.is
-bre.is
 cmu.is
 her.is
 illin.is
@@ -4028,7 +4037,7 @@ wf0.xin
 
 ########## Whitelist from https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener ##########
 
-# Ignored duplicates: 122
+# Ignored duplicates: 121
 
 ltd.ac
 shorturl.ac
@@ -4353,6 +4362,7 @@ blltly.com
 bnidigital.com
 link.bootocorona.com
 botemoda.com
+boxingtrip.com
 brisktopia.com
 track3.bsplegalmarketing.com
 bulkurlshortener.com
@@ -4436,6 +4446,7 @@ its-4-u.com
 jaglil.com
 jellyurl.com
 jiourl.com
+jobscity24.com
 track.joesdollars.com
 kabuzzle.com
 kaitect.com
@@ -4471,12 +4482,14 @@ max4click.com
 maxiurl.com
 maxurlz.com
 mayaediciones.com
+mcmullard.com
 metro-tmo.com
 miltipay.com
 minilinq.com
 mmo-it.com
 mnetarsiwoe.com
 mondoagram.com
+mrturl.com
 mshorten.com
 mstcvk.com
 multishorturl.com
@@ -4573,6 +4586,7 @@ splitterhq.com
 spyw.com
 squadgen.com
 stoodsef.com
+storagesch.com
 stormurl.com
 strategosnet.com
 stratoplot.com
@@ -4727,6 +4741,7 @@ indtr.ee
 lil.ee
 linkfr.ee
 bitly.email
+deliverable.email
 arn.es
 bibl.es
 liu.es
@@ -5007,6 +5022,7 @@ shxi.ir
 trezurl.ir
 yourl.ir
 bit-ly.is
+bre.is
 kick.is
 s4.is
 shorturl.is
@@ -5022,6 +5038,7 @@ fnote.it
 gesn.it
 hoeg.it
 itrk.it
+lutre.it
 mcni.it
 link.mtvrs.it
 onlypaste.it
@@ -5122,6 +5139,7 @@ saasmaster.link
 short-url.link
 short1.link
 shrtme.link
+smurl.link
 sonoran.link
 szag.link
 terakki.link
@@ -5295,6 +5313,7 @@ ipm.mo
 bitly.mobi
 kmi.mobi
 mtny.mobi
+prvt.mobi
 go.westco.mobi
 ytxt.mobi
 linked.mom
@@ -5304,6 +5323,7 @@ fitz.ms
 fts.ms
 k9.ms
 short.ms
+yc.ms
 in.mt
 avl.mx
 cjn.mx
@@ -5417,6 +5437,7 @@ l8.nu
 prt.nu
 swi.nu
 yts.nu
+13k.nz
 301.nz
 1a.co.nz
 ierp.co.nz
@@ -5672,6 +5693,7 @@ troya.tk
 url-qr.tk
 ijn.tl
 z1.tl
+15.tn
 abr.to
 ady.to
 an.to
@@ -5753,6 +5775,7 @@ cvcpl.us
 eva.us
 ewed.us
 exx.us
+gen11.us
 gkurl.us
 golink.us
 gourl.us
@@ -5779,6 +5802,7 @@ youtubu.us
 za2.us
 nah.uy
 tw.uy
+pi.uz
 clk.vc
 natura.com.vc
 wu.vc
@@ -5787,6 +5811,7 @@ link-me.vip
 megalink.vip
 1url.vn
 cop.vn
+fee.vn
 link.io.hubs.vn
 jll.vn
 lienket.vn
@@ -5816,6 +5841,7 @@ pixel.xin
 7894.xyz
 abbrefy.xyz
 cropped.xyz
+editricity.xyz
 gacorwak.xyz
 hgs.xyz
 hoholah.xyz
@@ -9790,6 +9816,7 @@ theoccult.bz
 theplace.bz
 thevault.bz
 tracker.bz
+r.l5.ca
 movies.zsw.ca
 tracker.arcbox.cc
 smtp.flawcra.cc
@@ -10402,6 +10429,7 @@ bt.okmp3.ru
 rt.optizone.ru
 vps02.net.orel.ru
 tracker.tvunderground.org.ru
+bot.ponomar-sibir.ru
 1c.premierzal.ru
 pxnet.ru
 qtstm32fan.ru
@@ -10430,6 +10458,7 @@ tr.highstar.shop
 open.demonii.si
 open.stealth.si
 tracker.coppersurfer.site
+tracker.cubicview.site
 kokodayo.site
 tracker.lyretain.site
 tracker.skynetcloud.site

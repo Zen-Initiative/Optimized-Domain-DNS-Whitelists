@@ -1,5 +1,5 @@
 # Title: Core Domain/DNS Whitelist (optimized)
-# Updated: 2024-01-12T04:50:02Z
+# Updated: 2024-01-22T00:46:10Z
 # Expires: 31 days (update frequency also depends on upstream sources)
 # Homepage: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/
 # License: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/LICENSE
