@@ -1,5 +1,5 @@
 # Title: Comprehensive Domain/DNS Whitelist (optimized)
-# Updated: 2024-01-22T00:46:10Z
+# Updated: 2024-02-10T03:24:05Z
 # Expires: 31 days (update frequency also depends on upstream sources)
 # Homepage: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/
 # License: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/LICENSE
@@ -8,7 +8,7 @@
 
 ########## Whitelist from https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt ##########
 
-# Ignored duplicates: 49
+# Ignored duplicates: 51
 
 adc.api.nine.com.au
 grabo.bg
@@ -245,6 +245,7 @@ treasuredata.com
 trust-provider.com
 sealserver.trustwave.com
 srv.tunefindforfans.com
+uniconsent.com
 unpkg.com
 urbanairship.com
 userreport.com
@@ -939,7 +940,7 @@ theregister.co.uk
 
 ########## Whitelist from https://raw.githubusercontent.com/badmojr/1Hosts/master/submit_here/exclude_for_all.txt ##########
 
-# Ignored duplicates: 235
+# Ignored duplicates: 236
 
 api.services.abbott
 burningseries.ac
@@ -1142,7 +1143,6 @@ midas.gtimg.cn.cdn.ettdnsv.com
 extension.extfans.com
 www.extfans.com
 www.fakenamegenerator.com
-www.fastmail.com
 api.faviconkit.com
 www.fbpurity.com
 feetfinder.com
@@ -2630,7 +2630,6 @@ cleg.al
 ringcentr.al
 topt.al
 clc.am
-gl.am
 hub.am
 instagr.am
 kkstre.am
@@ -2765,7 +2764,6 @@ itsfoss.click
 cle.clinic
 17mimei.club
 cindora.club
-url365.club
 blbrd.cm
 mz.cm
 nyer.cm
@@ -3385,7 +3383,6 @@ syb.la
 ume.la
 vai.la
 vo.la
-yupptv.la
 whcs.law
 2u.lc
 bitly.lc
@@ -3592,6 +3589,7 @@ frdm.mobi
 tinyurl.mobi
 sht.moe
 aces.mp
+sc.mp
 1drv.ms
 aka.ms
 ana.ms
@@ -3674,7 +3672,6 @@ pens.pe
 sho.pe
 tg.pe
 tgr.ph
-yugatech.ph
 pj.pizza
 5du.pl
 dee.pl
@@ -3693,9 +3690,7 @@ ouo.press
 lihi.pro
 linkshare.pro
 meetu.ps
-pro.ps
 storycor.ps
-foxs.pt
 interc.pt
 rly.pt
 alli.pub
@@ -3858,7 +3853,6 @@ grb.to
 gtly.to
 hpe.to
 htn.to
-huff.to
 imdb.to
 kko.to
 hi.kktv.to
@@ -4051,6 +4045,7 @@ nnt.ag
 flp.ai
 lnks.ai
 arsn.al
+cuts.al
 e7.al
 sosy.al
 gn.am
@@ -4065,6 +4060,7 @@ breverie.app
 plannery.app
 savyour.app
 sh-ort.app
+ufai.app
 vercels.app
 pendek.art
 placesunknown.art
@@ -4084,6 +4080,7 @@ shortlink.com.au
 useek.com.au
 seby.au
 fw.ax
+azx.az
 rdv.az
 233.be
 adfly.be
@@ -4140,6 +4137,7 @@ pql.ca
 smghf.ca
 trl.ca
 uwat.ca
+vabj.ca
 bw.care
 sho.cat
 adesta.cc
@@ -4190,6 +4188,7 @@ minggu.cfd
 activetea.ch
 chfm.ch
 cl03.ch
+girlte.ch
 panachex.ch
 produktiver.ch
 sh7.ch
@@ -4248,6 +4247,7 @@ khan.co
 kiacat.co
 kirr.co
 kslink.co
+lincat.co
 linkia.co
 linkis.co
 lnkw.co
@@ -4294,6 +4294,7 @@ has.coffee
 1qzr.com
 1shortlink.com
 1sturl.com
+247superhost.com
 3c5.com
 3ind.com
 3qzr.com
@@ -4357,6 +4358,7 @@ binbucks.com
 bitigee.com
 bitlyli.com
 bitlylinks.com
+bitshrt.com
 blipnut.com
 blltly.com
 bnidigital.com
@@ -4385,6 +4387,7 @@ clourls.com
 s.coccoc.com
 url.coronassh.com
 customurlshortener.com
+cutelnk.com
 cutlly.com
 cuts2.com
 dataurbia.com
@@ -4471,11 +4474,13 @@ linkvp.com
 lisar.lisaraeswan.com
 littlelnk.com
 looktiny.com
+loooves.com
 lr53r.com
 lz.com
 magnet-mind.com
 adfly.majidzhacker.com
 mangotwo.com
+marveliness.com
 matchurl.com
 mathmayr.com
 max4click.com
@@ -4506,6 +4511,7 @@ obblink.com
 ok2.com
 opent2.com
 oslash.com
+papertours.com
 yxe3d.paulchavady.com
 pecurgoa.com
 short.php8developer.com
@@ -4514,6 +4520,7 @@ poeurl.com
 poppullrsuprstrs.com
 popsuprstars.com
 popsuprstarz.com
+pragmaticurl.com
 privad0.com
 ptolreco.com
 jobs.qjobsindia.com
@@ -4927,6 +4934,7 @@ go.zordo.in
 7link.info
 bcvcurl.info
 r.bioinfweb.info
+coinpr.info
 fwdme.info
 ilinky.info
 morimo.info
@@ -4957,6 +4965,7 @@ doturl.io
 edl.io
 fliplink.io
 url-shortener.yc.fstrk.io
+gesit.io
 ggle.io
 hhbw.io
 ho.io
@@ -5105,6 +5114,7 @@ altstar.link
 alturl.link
 b-ly.link
 bez.link
+brst.link
 buff.link
 buho.link
 cctor.link
@@ -5115,8 +5125,10 @@ efs.link
 epsi.link
 gemy.link
 hausarzt.link
+hero.link
 hide.link
 hocmai.link
+imboost.link
 iwr.link
 kisa.link
 leit.link
@@ -5163,10 +5175,12 @@ euapoio.live
 eurl.live
 goninja.live
 high-point.live
+imprinttoday.live
 shopgather.live
 the-rocking-huts.live
 therockinghuts.live
 vellygearswiki.live
+wilksom.live
 cb.lk
 el.lk
 mod.lk
@@ -5244,6 +5258,7 @@ hl7.me
 hmp.me
 housga.me
 instaurl.me
+keraskale.me
 kinnto.me
 kla.me
 knnt.me
@@ -5332,6 +5347,7 @@ salesadvisor.nazriproton.com.my
 ly.my
 ma.my
 mki.my
+ss88.my
 tpaper.my
 urlz.my
 wallets.my
@@ -5399,6 +5415,7 @@ shorterurl.net
 shortfires.net
 shortlink.net
 statistics4u.net
+sub2unlock.net
 tahmil.net
 trackee.net
 trimlink.net
@@ -5425,6 +5442,7 @@ arab.news
 mlog.news
 nmw.news
 tick.news
+9jagistme.com.ng
 dcc.ng
 shar.i.ng
 sng.ng
@@ -5476,6 +5494,7 @@ goto.cream.org
 dcbspage.org
 efraising.org
 f5i.org
+getadsnow.org
 ipkill.org
 javadocs.org
 jomblo.org
@@ -5483,6 +5502,7 @@ kisaurl.org
 linkshrink.org
 lurl.org
 m4rk.org
+moodline.org
 mtiny.org
 nanourl.org
 tiny.oldsouth.org
@@ -5505,6 +5525,7 @@ webshort.org
 music.yosa.org
 analyticslinker.ovh
 att.ovh
+cut.ovh
 gorio.page
 hop2.page
 lenon.page
@@ -5516,6 +5537,7 @@ cii.pet
 curl.pk
 1o.pl
 654.pl
+dourl.pl
 film24owo.pl
 otolink.pl
 tlrd.pl
@@ -5602,6 +5624,7 @@ gotds.ru
 htgi.ru
 lenon-qr.ru
 lilllil.ru
+oqp.ru
 sho-rt.ru
 shorturl.ru
 sr23.ru
@@ -5644,6 +5667,7 @@ sky.si
 wy.si
 yx.si
 abbr.site
+biturl.site
 eranmoney.site
 infs.site
 kisaca.site
@@ -5707,6 +5731,7 @@ edm.to
 gf.to
 gmj.to
 gurl.to
+huff.to
 jio.to
 lingkod.to
 linke.to
@@ -5716,6 +5741,7 @@ lup.to
 met.to
 oferta.to
 pke.to
+playbokep.to
 pwgo.to
 qut.to
 rip.to
@@ -5767,6 +5793,8 @@ l.archnet.us
 beeb.us
 bitj.us
 bitnew.us
+bittraffic.us
+bityj.us
 bofh.us
 bwlf.us
 c80.us
@@ -5789,6 +5817,7 @@ nxm.us
 offlink.us
 s21.us
 s23.us
+sdwone.us
 shortfd.us
 slims.us
 syr.us
@@ -5983,7 +6012,7 @@ zoom.us
 
 ########## Whitelist from https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/banks.txt ##########
 
-# Ignored duplicates: 183
+# Ignored duplicates: 184
 
 rakbankonline.ae
 internetbank.armbusinessbank.am
@@ -6077,7 +6106,7 @@ bpostbank.be
 bpostbanque.be
 buyway.be
 carrefourfinance.be
-ebanking.ing.be
+ing.be
 kbc.be
 keytradebank.be
 wallet.best
@@ -6208,6 +6237,7 @@ itau.co
 kautionen.aareal-bank.com
 portal.aareal.com
 app.aave.com
+abanca.com
 abchina.com
 ib.ablv.com
 terminal.accentpay.com
@@ -6313,6 +6343,7 @@ btc-e.com
 wallet.btc.com
 btgpactual.com
 btpn.com
+bunq.com
 bybit.com
 caixa-enginyers.com
 campuscu.com
@@ -6393,6 +6424,7 @@ nettbedriften.evry.com
 bank.eximb.com
 fairfx.com
 farmersebank.com
+fastbill.com
 fbtonline.com
 fbwebpos.com
 fednetbank.com
@@ -6415,6 +6447,7 @@ service.fuib.com
 exchange.futureswap.com
 secure.gate2shop.com
 exchange.gemini.com
+getpenta.com
 exchange.globitex.com
 3dsecure.gpwebpay.com
 greensill-bank.com
@@ -6448,6 +6481,7 @@ sube.iktisatbank.com
 independentreserve.com
 inetpayonline.com
 ingonline.com
+ingwb.com
 inicis.com
 instamojo.com
 interactivebrokers.com
@@ -6467,6 +6501,7 @@ kgibank.com
 klarna.com
 klikbca.com
 kokobank.com
+kontist.com
 secure.koopbank.com
 kraken.com
 kreditprombank.com
@@ -6535,7 +6570,6 @@ payments.olx.com
 oneaccount.com
 onfastspring.com
 onlinebanking-ibb-ag.com
-onlinesbi.com
 www.onlinesbiglobal.com
 api.oplata.com
 optumbank.com
@@ -6578,6 +6612,7 @@ privatbank1891.com
 prosperitybankusa.com
 bbvaprovinet.provincial.com
 ibank2.pskb.com
+pxpayplus.com
 qantasmoney.com
 qiwi.com
 qnb.com
@@ -6627,6 +6662,7 @@ sendwyre.com
 settrade.com
 beta.shapeshift.com
 sharesight.com
+shinhan.com
 kz.shinhanglobal.com
 shinseibank.com
 cb1.sichbank.com
@@ -6699,6 +6735,7 @@ trade.webborsam.com
 wellsfargo.com
 checkout.wirecard.com
 wise.com
+wlp-acs.com
 wmtransfer.com
 online.woodforest.com
 wooppay.com
@@ -6779,6 +6816,7 @@ creditplus.de
 cronbank.de
 cvw-privatbank-ag.de
 dab-bank.de
+datev.de
 degussa-bank.de
 deine-volksbank.de
 dettinger-bank.de
@@ -6936,6 +6974,7 @@ kreditkarten-banking.lbb.de
 leaseplanbank.de
 leipziger-volksbank.de
 levo-bank.de
+lexoffice.de
 ligabank.de
 loebbecke-bank.de
 maerkische-bank.de
@@ -7361,6 +7400,7 @@ secb.de
 secure-banking.de
 seebachgrund.de
 seeligerbank.de
+sevdesk.de
 sgkb.de
 shinhan.de
 sk-westerwald-sieg.de
@@ -7476,6 +7516,7 @@ sparkasse-hattingen.de
 sparkasse-hegau-bodensee.de
 sparkasse-heidelberg.de
 sparkasse-heilbronn.de
+sparkasse-hellweg-lippe.de
 sparkasse-herford.de
 sparkasse-hildburghausen.de
 sparkasse-hildesheim.de
@@ -8175,6 +8216,7 @@ portal.lacaixa.es
 liberbank.es
 openbank.es
 selfbank.es
+targobank.es
 triodos.es
 unicaja.es
 unicajabanco.es
@@ -8398,6 +8440,7 @@ onlinetsb.kz
 ib.pnbkaz.kz
 postbank.kz
 sberbank.kz
+shinhan.kz
 my.smartbank.kz
 online.vtb-bank.kz
 arabbank.com.lb
@@ -8636,6 +8679,7 @@ ue.dnb.pl
 e25.pl
 secure.getinbank.pl
 secure.ideabank.pl
+ing.pl
 ingbank.pl
 inteligo.pl
 www.ipko.pl
@@ -9257,6 +9301,7 @@ dbo.zhivagobank.ru
 ziraatbank.ru
 alfransi.com.sa
 saib.com.sa
+onlinesbi.sbi
 avanza.se
 banknorwegian.se
 danskebank.se
@@ -9284,6 +9329,7 @@ citibank.com.sg
 internet-banking.dbs.com.sg
 www.posb.com.sg
 uob.com.sg
+csob.sk
 ib.raiffeisen.sk
 slsp.sk
 moja.tatrabanka.sk
@@ -9395,6 +9441,7 @@ hncb.com.tw
 hsbc.com.tw
 hua215.com.tw
 hwataibank.com.tw
+i-pass.com.tw
 jihsunbank.com.tw
 ebank.kfcc.com.tw
 kh3c.com.tw
@@ -9618,7 +9665,7 @@ vnn-res.vgcloud.vn
 
 ########## Whitelist from https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/sensitive.txt ##########
 
-# Ignored duplicates: 15
+# Ignored duplicates: 16
 
 hotdoc.com.au
 gov.au
@@ -9633,6 +9680,7 @@ canadapost.ca
 cra-arc.gc.ca
 protonmail.ch
 1password.com
+anonaddy.com
 checkout.bambora.com
 id.biltema.com
 binance.com
@@ -9643,6 +9691,7 @@ dashlane.com
 equifax.com
 experian.com
 f-secure.com
+fastmail.com
 freshbooks.com
 hrblock.com
 idnotify.com
@@ -9653,6 +9702,7 @@ kashflow.com
 fido.kt.com
 login.kt.com
 lifelock.com
+mailfence.com
 mexc.com
 mydocomo.com
 myob.com
@@ -9670,12 +9720,13 @@ transunion.com
 trbinance.com
 trueidentity.com
 trustedid.com
-mail.tutanota.com
+tutanota.com
 identity.virginmedia.com
 web.whatsapp.com
 xero.com
 id.yandex.com
 passport.yandex.com
+posteo.de
 signal-iduna.de
 tikker.emta.ee
 paypal-topup.ee
@@ -9689,6 +9740,7 @@ kau.gov.hu
 gov.in
 enpass.io
 gate.io
+simplelogin.io
 connect.auone.jp
 bbss.softbankbb.co.jp
 cfg.smt.docomo.ne.jp
@@ -9705,6 +9757,7 @@ ok.webhop.net
 mijnpazio.nl
 uwzorgonline.nl
 besoklegen.no
+mailbox.org
 prestigecu.org
 gov.pl
 lk.billing74.ru
@@ -10275,6 +10328,7 @@ tracker.loli.co.nz
 tracker1.loli.co.nz
 trackme.theom.nz
 tracker.vds.nz
+tracker.picotorrent.one
 aboutbeautifulgallopinghorsesinthegreenpasture.online
 tracker.corpscorp.online
 shahidrazi.online
@@ -10344,6 +10398,7 @@ bigfoot1942.sektori.org
 soysta-fr1.dev.sercomkc.org
 udp-tracker.shittyurl.org
 stargrave.org
+pirate.t-1.org
 x.t-1.org
 y.t-1.org
 tracker.t-rb.org
@@ -10733,7 +10788,7 @@ newdefend.org
 
 ########## Whitelist from https://raw.githubusercontent.com/blokadaorg/landing-github-pages/master/scripts/whitelist ##########
 
-# Ignored duplicates: 8841
+# Ignored duplicates: 8840
 
 tvaddons.ag
 ckk.ai
@@ -11562,6 +11617,7 @@ office365.com
 olark.com
 one.com
 onedrive.com
+onlinesbi.com
 public.onlyfans.com
 onmilwaukee.com
 ooyala.com
@@ -12697,7 +12753,7 @@ gumtree.co.za
 
 ########## Whitelist from https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Whitelists/Whitelist ##########
 
-# Ignored duplicates: 490
+# Ignored duplicates: 492
 
 oneclient.sfx.ms
 

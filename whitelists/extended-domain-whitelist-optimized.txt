@@ -1,5 +1,5 @@
 # Title: Extended Domain/DNS Whitelist (optimized)
-# Updated: 2024-01-22T00:46:10Z
+# Updated: 2024-02-10T03:24:05Z
 # Expires: 31 days (update frequency also depends on upstream sources)
 # Homepage: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/
 # License: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/LICENSE
@@ -8,7 +8,7 @@
 
 ########## Whitelist from https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt ##########
 
-# Ignored duplicates: 14
+# Ignored duplicates: 15
 
 tags.news.com.au
 adc.api.nine.com.au
@@ -187,6 +187,7 @@ msgfocus.com
 g.msn.com
 mybannermaker.com
 adcr.naver.com
+cologger.shopping.naver.com
 neobux.com
 newrelic.com
 nicequest.com
@@ -268,6 +269,7 @@ trust-provider.com
 sealserver.trustwave.com
 srv.tunefindforfans.com
 analytics.twitter.com
+uniconsent.com
 unpkg.com
 urbanairship.com
 userreport.com
