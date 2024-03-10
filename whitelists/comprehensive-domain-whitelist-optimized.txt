@@ -1,5 +1,5 @@
 # Title: Comprehensive Domain/DNS Whitelist (optimized)
-# Updated: 2024-02-10T03:24:05Z
+# Updated: 2024-03-08T21:00:24Z
 # Expires: 31 days (update frequency also depends on upstream sources)
 # Homepage: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/
 # License: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/LICENSE
@@ -413,7 +413,7 @@ trust.zone
 
 ########## Whitelist from https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list ##########
 
-# Ignored duplicates: 162
+# Ignored duplicates: 163
 
 media-lab.ai
 gmx.at
@@ -766,6 +766,7 @@ strefa.fm
 tuba.fm
 letribunaldunet.fr
 orange.fr
+comnunidaddemadrid.solution.weborama.fr
 is.gd
 goo.gl
 void.gr
@@ -839,6 +840,7 @@ bokser.org
 dictionary.cambridge.org
 ftp.chocolatey.org
 packages.chocolatey.org
+creativecommons.org
 debian.org
 forum.doom9.org
 example.org
@@ -2119,12 +2121,14 @@ screenshield.us
 
 ########## Whitelist from https://gitlab.com/malware-filter/phishing-filter/-/raw/main/src/exclude.txt ##########
 
-# Ignored duplicates: 98
+# Ignored duplicates: 136
 
 interspar.at
 s3.fr-par.scw.cloud
 s3.nl-ams.scw.cloud
 s3.pl-waw.scw.cloud
+s3.dualstack.cn-north-1.amazonaws.com.cn
+s3.dualstack.cn-northwest-1.amazonaws.com.cn
 ams3.digitaloceanspaces.com
 fra1.digitaloceanspaces.com
 nyc3.digitaloceanspaces.com
@@ -2626,7 +2630,6 @@ pplx.ai
 urli.ai
 can.al
 cbsloc.al
-cleg.al
 ringcentr.al
 topt.al
 clc.am
@@ -3096,7 +3099,6 @@ xurl.es
 yourwish.es
 fwme.eu
 xy2.eu
-u.fail
 fifa.fans
 1u.fi
 dy.fi
@@ -3166,7 +3168,6 @@ alphab.gr
 chzb.gr
 ed.gr
 2nu.gs
-amp.gs
 ampr.gs
 brook.gs
 smu.gs
@@ -3557,7 +3558,6 @@ lihi2.me
 lihi3.me
 links2.me
 m.me
-mgnet.me
 moovit.me
 mub.me
 naver.me
@@ -3607,7 +3607,6 @@ zynga.my
 aet.na
 huma.na
 puri.na
-eonli.ne
 redsto.ne
 ai6.net
 firsturl.net
@@ -4023,7 +4022,6 @@ tinyarro.ws
 tnne.ws
 tnsne.ws
 wo.ws
-zeni.ws
 zurl.ws
 wf0.xin
 71a.xyz
@@ -4031,8 +4029,9 @@ wf0.xin
 
 ########## Whitelist from https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener ##########
 
-# Ignored duplicates: 121
+# Ignored duplicates: 122
 
+lib.ac
 ltd.ac
 shorturl.ac
 tpm.ac
@@ -4057,6 +4056,7 @@ acessa.app
 azipurl.app
 bitl.app
 breverie.app
+linkfly.app
 plannery.app
 savyour.app
 sh-ort.app
@@ -4082,6 +4082,7 @@ seby.au
 fw.ax
 azx.az
 rdv.az
+berde.bar
 233.be
 adfly.be
 minu.be
@@ -4094,12 +4095,14 @@ hu.berlin
 bitly.best
 urlshortener.best
 yourls.best
+s.skip.bh
 zum.bi
 cutit.bid
 short.bid
 ylink.bid
 myown.bio
 anmeld.biz
+gacora.biz
 shorted.biz
 shorturl.biz
 urlshortener.biz
@@ -4128,9 +4131,12 @@ qr2.bz
 rckstr.bz
 znt.bz
 1ql.ca
+dside.ca
 s.evx.ca
 short.evx.ca
+slurl.keatsmedia.ca
 kort.ca
+l2f.ca
 m17.ca
 peen.ca
 pql.ca
@@ -4152,9 +4158,12 @@ ez1.cc
 fbook.cc
 go2u.cc
 goldn.cc
+hlink.cc
 ifnews.cc
 j2c.cc
 jppt.cc
+liik.cc
+linky.cc
 litl.cc
 lync.cc
 mytd.cc
@@ -4173,6 +4182,7 @@ texn.cc
 tiky.cc
 tinybit.cc
 toui.cc
+tovgo.cc
 uich.cc
 urlinks.cc
 urlme.cc
@@ -4200,6 +4210,7 @@ vrd.ci
 admediatex.click
 alas.click
 cb.click
+hidude.click
 myown.click
 nord.click
 sagiri.click
@@ -4213,6 +4224,7 @@ megadownload.cloud
 shorturl.club
 lb.cm
 short.cm
+zo.cm
 0t.cn
 athm.cn
 xmg66.cn
@@ -4222,25 +4234,30 @@ xmg66.cn
 3o2.co
 7links.co
 adshort.co
+alternatif.co
 appsfly.co
 asharq.co
 b-i-t-l-y.co
 bittyurl.co
 biz15.co
+bulink.co
 c1k.co
 cden.co
 cndr.co
 cy8.co
 drte.co
 efie.co
+exchangle.co
 ezurl.co
 ezyurl.co
+fa-st.co
 georiot.co
 getcovidtest.co
 gopvote.co
 hbtl.co
 hrbrg.co
 hsdt.co
+i7i.co
 isols.co
 joiner.co
 khan.co
@@ -4251,11 +4268,13 @@ lincat.co
 linkia.co
 linkis.co
 lnkw.co
+ludigi.co
 minifyurl.co
 moomusic.co
 my-ab.co
 mymst.co
 ogms.co
+ottv.co
 picsee.co
 pnut.co
 popfeed.co
@@ -4274,12 +4293,14 @@ short-ly.co
 short-url.co
 shortenme.co
 shrinkly.co
+slutbook.co
 smallurl.co
 snar.co
 soopr.co
 tinyurlz.co
 trimurl.co
 upercut.co
+urlbit.co
 urlty.co
 vgnx.co
 wfly.co
@@ -4350,6 +4371,7 @@ bagneed.com
 baixeapk.com
 barsoocm.com
 beingtek.com
+best-sex-pills.com
 bestshortlink.com
 beteshis.com
 biastonu.com
@@ -4359,6 +4381,8 @@ bitigee.com
 bitlyli.com
 bitlylinks.com
 bitshrt.com
+bittylink.com
+ai.blendnow.com
 blipnut.com
 blltly.com
 bnidigital.com
@@ -4371,10 +4395,12 @@ bulkurlshortener.com
 buybitcoinsworldwide.com
 cactusskyonline.com
 cardiox-care.com
+cash4share.com
 casualient.com
 cbshort.com
 cesinthi.com
 change-erp.com
+charm-jewellry.com
 checkshorturl.com
 cintly.com
 cla30.com
@@ -4393,6 +4419,7 @@ cuts2.com
 dataurbia.com
 davidlloydjr.com
 track3.davydovlaw.com
+defigodirect.com
 detonnot.com
 df-sports.com
 dfgameplay.com
@@ -4400,6 +4427,7 @@ dfkr77.com
 dfthethao.com
 digispotpro.com
 djurl.com
+dktlg.com
 domainul.com
 dotalink.com
 dpessm.com
@@ -4408,24 +4436,32 @@ dropmylinks.com
 earnshorter.com
 url.eefocus.com
 elfdirect.com
+encorelpmbqs.com
 eubok.com
+extinctionthriller.com
+eyemakeu.com
 f1mate.com
 f5url.com
 fadurl.com
 famousurl.com
 fasttory.com
+fflowerys.com
 fl-y.com
 flextrig.com
 flickerlink.com
 fly4win.com
 funurl.com
+download.fxsound.com
+geetlink.com
 geniuslink.com
 get-modern.com
 getashorturl.com
+getlickd.com
 tly.getrewardful.com
 getthot.com
 go2sm.com
 go2that.com
+link.goglogo.com
 goo-id.com
 goo2url.com
 google-url.com
@@ -4433,6 +4469,7 @@ goshrink.com
 gosniply.com
 h2apz.com
 hadsucma.com
+hdd6.com
 hedonpisansidiki.com
 app.helpline-app.com
 view.helpline-app.com
@@ -4443,20 +4480,26 @@ hutbz.com
 icutlink.com
 iembelleze.com
 instarouting.com
+invpy.com
 ishortify.com
 istubby.com
 its-4-u.com
 jaglil.com
+jarrol.com
 jellyurl.com
 jiourl.com
 jobscity24.com
 track.joesdollars.com
+re.johnhughson.com
 kabuzzle.com
 kaitect.com
 katespadesneakpeek.com
 go.koloua.com
+ktckesaria.com
 l-inked.com
 leitup.com
+lilliess.com
+lincyt.com
 linkaff.com
 linkbirdy.com
 linkclickcounter.com
@@ -4471,6 +4514,7 @@ linkshortify.com
 linkslocalstorage.com
 linkunshorten.com
 linkvp.com
+lintlink.com
 lisar.lisaraeswan.com
 littlelnk.com
 looktiny.com
@@ -4489,6 +4533,7 @@ maxurlz.com
 mayaediciones.com
 mcmullard.com
 metro-tmo.com
+midiavip.com
 miltipay.com
 minilinq.com
 mmo-it.com
@@ -4500,11 +4545,13 @@ mstcvk.com
 multishorturl.com
 mundoonatural.com
 murl.com
+myanlink.com
 mylinksentry.com
 mysurl.com
 neflixenomovies.com
 newhotlink.com
 nextworm.com
+nouvelavenircheznous.com
 nwspprs.com
 oaglyfoa.com
 obblink.com
@@ -4520,12 +4567,15 @@ poeurl.com
 poppullrsuprstrs.com
 popsuprstars.com
 popsuprstarz.com
+popularssuperstars.com
 pragmaticurl.com
 privad0.com
 ptolreco.com
 jobs.qjobsindia.com
+qr-in.com
 quainator.com
 quamiller.com
+qvc-review.com
 qwhuihiah.com
 qzr1.com
 qzr2.com
@@ -4537,11 +4587,19 @@ qs.rams-app.com
 rantenah.com
 ravshort.com
 rayzershort.com
+realtours360.com
 redirigere.com
 redirme.com
 remwoodworkingmachineexpo.com
+repackert.com
+repcandelora.com
+repdevlin.com
 repfredcamillo.com
+reppiscopo.com
+repyaccarino.com
 reshort.com
+revlk.com
+rmroses.com
 romcomedies.com
 rounash.com
 goo-gl.ru.com
@@ -4549,14 +4607,18 @@ ruhgsliughs.com
 s12d.com
 sangamtalks.com
 savenoperarte.com
+savetub.com
 sc1o.com
 sclix.com
 screeee.com
+s.sebald.com
 secure-dentist.com
 link.sekuritance.com
+sgrtldm.com
 sguhslig.com
 shadyurl.com
 sharepointshorturl.com
+shopifie.com
 shorrty.com
 shortbe.com
 shortclick.com
@@ -4578,6 +4640,8 @@ shorturlapp.com
 shorturlbot.com
 shorturlss.com
 shortyzone.com
+shotzon.com
+shpze.com
 shrinkearn.com
 shrinkl.com
 shrtfly.com
@@ -4606,37 +4670,54 @@ susurl.com
 swiftation.com
 swifttopia.com
 t2mio.com
+tandco-usa.com
 targeterpro.com
 tfushort.com
 direct.tgcoracle.com
+thebindaas.com
 thecanvaprints.com
 thefood2.com
 thejoekuskie.com
 theowlys.com
+thetripusa.com
 thinurl.com
+tiffanyandco-us.com
 tinylinkurl.com
+tinyshorturl.com
 tinyurlwebsite.com
 tipeos.com
 titaniumlinks.com
 titleagentmarketing.com
 tklinks.com
+tlinky.com
 tlyurl.com
 tokurlshortener.com
 tonancos.com
+toolssagar.com
 topfiften.com
 toplistt.com
 traffbe.com
+trafget.com
 trim-url.com
+troasters.com
 trunkateurl.com
 try2link.com
 ttrewards.com
 turboagram.com
+twixar.com
+ueismss.com
+uepx.com
 uhishado.com
+ulrshrink.com
+uminify.com
 umuly.com
 unfunnyi.com
 united-links.com
+newsletter.urcelia.com
 url-ly.com
 url50.com
+url88wow.com
+url99wow.com
 urlah.com
 urlaze.com
 urlday.com
@@ -4683,14 +4764,17 @@ wptrckr.com
 wwdurl.com
 x2t.com
 xb5.com
+xoekkz.com
 xoxourl.com
 yamechanic.com
 yoalizer.com
+s.zazuko.com
 ziturl.com
 zshorten.com
 zshortner.com
 ops.consulting
 pp.cr
+hab.cx
 imo.cx
 tox.cx
 x3.cx
@@ -4710,6 +4794,7 @@ s.bts-ev.de
 ci8.de
 coz.de
 decat.de
+s.gdngs.de
 gt7.de
 j0n.de
 lowx.de
@@ -4719,9 +4804,11 @@ stats.socialguru24.de
 tfg2000.de
 ux5.de
 vaddev.de
+wyyw.de
 yiii.de
 ykm.de
 zhort.de
+dandy.dental
 sample-app.fluf.dev
 j2team.dev
 aka.sainnhe.dev
@@ -4730,6 +4817,7 @@ tinyurl.dev
 20.dk
 60.dk
 iurl.dk
+qb.dk
 qo.dk
 short-url.dk
 snurl.dk
@@ -4749,6 +4837,7 @@ lil.ee
 linkfr.ee
 bitly.email
 deliverable.email
+erath.email
 arn.es
 bibl.es
 liu.es
@@ -4769,6 +4858,7 @@ l.webopt.eu
 xn--ul-ksa.eu
 xrshort.eu
 xsurl.eu
+mbx.events
 likes.fans
 grow.momentumproject.finance
 ur.fish
@@ -4790,6 +4880,7 @@ brendan.fyi
 rq.fyi
 ual.fyi
 ak.gd
+yb.gd
 123.ge
 lil.ge
 lo.ge
@@ -4816,13 +4907,16 @@ ki.gy
 ty.gy
 iii.hm
 bitly.host
+relink.host
 urlshort.host
 wig.ht
 xi.ht
 nnm.hu
+short.assleo.icu
 bitj.icu
 linkin.icu
 puhli.icu
+terp.icu
 uurl.icu
 tel-u.ac.id
 s.ub.ac.id
@@ -4846,12 +4940,14 @@ bitly.im
 due.im
 dus.im
 l24.im
+little.im
 luis.im
 shortly.im
 sifu.im
 stack.im
 t.im
 vats.im
+yap.im
 1r2.in
 2link.in
 2one.in
@@ -4871,6 +4967,8 @@ c2d.in
 ccurl.in
 cius.in
 clkr.in
+cpamax.in
+ppt.dpanda.in
 du-link.in
 dulink.in
 e2share.in
@@ -4898,6 +4996,7 @@ longurl.in
 lynks.in
 lynkz.in
 me9.in
+mklinks.in
 my-link.in
 nexturl.in
 omegalinks.in
@@ -4911,6 +5010,7 @@ psfl.in
 ripd.in
 rusd.in
 s4w.in
+safly.in
 scts.in
 shlom.in
 shortin.in
@@ -4926,6 +5026,7 @@ twtr.in
 url2.in
 urltamil.in
 urlzs.in
+shortener.winplaybox.in
 go.zordo.in
 1ink.info
 2it.info
@@ -4936,11 +5037,14 @@ bcvcurl.info
 r.bioinfweb.info
 coinpr.info
 fwdme.info
+hsrw.info
 ilinky.info
+mariesharps.info
 morimo.info
 myshortlink.info
 nftchampions.info
 soumtrack.info
+ssl-check-links.info
 url-shortener.info
 urlchecker.info
 xbig.info
@@ -4953,15 +5057,20 @@ hil.ink
 iql.ink
 jl.ink
 lionl.ink
+rpd.ink
 shrt-l.ink
 superbl.ink
+tinyl.ink
 zom.ink
 1ad.io
 2x1.io
+akslot.io
 benco.io
+betaloop.io
 cdcp.io
 cofe.io
 doturl.io
+drpsnd.io
 edl.io
 fliplink.io
 url-shortener.yc.fstrk.io
@@ -4974,10 +5083,13 @@ jpjp.io
 kilat.io
 ldjet.io
 linkerr.io
+linksy.io
 lkdin.io
 makyo.io
 microlinks.io
 muth.io
+ntbk.io
+oii.io
 orp.io
 p-r.io
 picsee.io
@@ -4991,6 +5103,7 @@ sbgo.io
 seby.io
 shareus.io
 shlink.io
+shme.io
 shoort.io
 short.io
 shortenme.io
@@ -5002,6 +5115,7 @@ tcc.io
 tinyl.io
 tinyurls.io
 tlsn.io
+u2l.io
 weelink.io
 weworkers.io
 ytube.io
@@ -5060,6 +5174,7 @@ kurz.jetzt
 moj.jo
 sp5.jp
 tvss.jp
+bt.ke
 qt.ke
 303.kim
 acg.kr
@@ -5069,6 +5184,7 @@ clix.kr
 ozz.kr
 sbsb.kr
 wru.kr
+znz.kr
 dracoo.la
 dtl.la
 lph.la
@@ -5101,6 +5217,8 @@ linka.li
 lvr.li
 otp.li
 shortcm.li
+u-rl.li
+webi.li
 anv-apparel.life
 bee-kz.life
 highends.life
@@ -5115,14 +5233,17 @@ alturl.link
 b-ly.link
 bez.link
 brst.link
+btco.link
 buff.link
 buho.link
 cctor.link
 clipmy.link
 domi.link
 drafthound.link
+ecrane.link
 efs.link
 epsi.link
+ezexzo.link
 gemy.link
 hausarzt.link
 hero.link
@@ -5132,6 +5253,7 @@ imboost.link
 iwr.link
 kisa.link
 leit.link
+linkthis.link
 litly.link
 maejo.link
 mihan.link
@@ -5152,12 +5274,14 @@ short-url.link
 short1.link
 shrtme.link
 smurl.link
+snpy.link
 sonoran.link
 szag.link
 terakki.link
 tweetable.link
 ucblib.link
 umu.link
+upriserz.link
 ur.link
 urllink.link
 urlplus.link
@@ -5170,23 +5294,36 @@ zip.link
 zipurl.link
 zotter.link
 3xs.live
+amzwpe.live
+amzwre.live
+b8my.live
 cut.live
 euapoio.live
 eurl.live
+fashionmi.live
 goninja.live
 high-point.live
 imprinttoday.live
+linkotw.live
+m-fb.live
+merchyep.live
+milliondollarbrandclub.live
+nowtrade.live
 shopgather.live
+social-sales-application.live
 the-rocking-huts.live
 therockinghuts.live
 vellygearswiki.live
+webwebsite.live
 wilksom.live
+zwagyi9.live
 cb.lk
 el.lk
 mod.lk
 va.lk
 am.lol
 cml.lol
+dbox.lol
 diato.lol
 ice.lol
 idfk.lol
@@ -5195,6 +5332,7 @@ luto.lol
 rxe.lol
 senin.lol
 tdy.lol
+xixy.lol
 abso.lt
 m5.lt
 quick.lt
@@ -5226,6 +5364,7 @@ py.md
 9-16.me
 aegyo.me
 agoz.me
+alsa.me
 appna.me
 ardchk.me
 bbff.me
@@ -5247,6 +5386,7 @@ eyq.me
 ezbz.me
 ezclick.me
 flrt.me
+gacorbos.me
 gef.me
 getblue.me
 gnam.me
@@ -5255,6 +5395,7 @@ h-url.me
 hblab.me
 hbs.me
 hl7.me
+hlaueriksson.me
 hmp.me
 housga.me
 instaurl.me
@@ -5309,6 +5450,7 @@ try4.me
 tsz4.me
 ttad.me
 ultrashort.me
+um4.me
 unesa.me
 unshorten.me
 urle.me
@@ -5328,12 +5470,15 @@ ipm.mo
 bitly.mobi
 kmi.mobi
 mtny.mobi
+nlc.mobi
 prvt.mobi
 go.westco.mobi
 ytxt.mobi
 linked.mom
+linux.mom
 inf.money
 4ajsh45.monster
+bx.ms
 fitz.ms
 fts.ms
 k9.ms
@@ -5364,9 +5509,12 @@ atharori.net
 avhop.net
 b-i-t-l-y.net
 bdf.net
+becsn.net
 biolynx.net
 bitly.net
 ccurl.net
+chkurl.net
+cloudradar.net
 coinbarlink.net
 cortalo.net
 cuturl.net
@@ -5375,6 +5523,7 @@ demolink.net
 dstats.net
 easyurl.net
 eloism.net
+emojied.net
 fgurl.net
 flyurl.net
 url-shortener.freebusinessapps.net
@@ -5382,6 +5531,7 @@ ganalytics.net
 gatustox.net
 gdanstum.net
 go-links.net
+go777.net
 gocps.net
 goshareit.net
 hurirk.net
@@ -5405,6 +5555,7 @@ nowlinks.net
 oaxyteek.net
 okshort.net
 oyo.net
+passion-radio.net
 prime-link.net
 s3w.net
 serveracts.net
@@ -5429,6 +5580,7 @@ v3d.net
 vipgacor77.net
 viprupiah138.net
 vturl.net
+waveurl.net
 webmienphi.net
 webrc.net
 wurlie.net
@@ -5437,14 +5589,17 @@ yatradham.net
 zeurl.net
 zoneurl.net
 bitly.network
+aawsat.news
 aftv.news
 arab.news
 mlog.news
 nmw.news
+sk.news
 tick.news
 9jagistme.com.ng
 dcc.ng
 shar.i.ng
+owlti.ng
 sng.ng
 ow.nl
 rtube.nl
@@ -5478,9 +5633,12 @@ amoz.onl
 gourl.onl
 shrinkeme.online
 storeman.online
+t-co.online
+tulinks.online
 ultimateqrcodegenerator.online
 upyun.online
 sah.ooo
+173ch1.org
 1ir.org
 6ct.org
 albn.org
@@ -5495,6 +5653,7 @@ dcbspage.org
 efraising.org
 f5i.org
 getadsnow.org
+gosite.org
 ipkill.org
 javadocs.org
 jomblo.org
@@ -5506,6 +5665,7 @@ moodline.org
 mtiny.org
 nanourl.org
 tiny.oldsouth.org
+payskip.org
 pymd.org
 qrcd.org
 sdnl.org
@@ -5515,6 +5675,7 @@ short-url.org
 shortylink.org
 shoturl.org
 shrink-your-link.org
+y.stadtfabrikanten.org
 tiny-link.org
 tx0.org
 url4.org
@@ -5523,6 +5684,7 @@ urlexpander.org
 urlshortner.org
 webshort.org
 music.yosa.org
+youlinks.org
 analyticslinker.ovh
 att.ovh
 cut.ovh
@@ -5535,6 +5697,7 @@ ye.pe
 zip.pe
 cii.pet
 curl.pk
+safuretech.pk
 1o.pl
 654.pl
 dourl.pl
@@ -5561,6 +5724,7 @@ shortify.pro
 surl.pro
 vdio.pro
 wakgengs.pro
+youris.pro
 tri.ps
 adjh.pt
 goto.pt
@@ -5568,6 +5732,7 @@ jgo.pt
 xsl.pt
 yep.pt
 abre.pub
+888b.pw
 avtub.pw
 bely.pw
 biti.pw
@@ -5590,6 +5755,7 @@ tmt.pw
 x11.pw
 zimy.pw
 ziso.pw
+zkr.pw
 gola.quest
 guula.quest
 0x.re
@@ -5597,6 +5763,7 @@ guula.quest
 aka.re
 dsh.re
 fffutu.re
+flashsc.re
 gil.re
 kes.re
 spx.re
@@ -5615,6 +5782,7 @@ go.pomona.rocks
 dajdam.rs
 p1.rs
 qd.rs
+serverpa.rs
 wdsh.rs
 anizam.ru
 bitly1.ru
@@ -5657,7 +5825,9 @@ dwz.sh
 pia.sh
 smr.sh
 vena.sh
+djarum88.shop
 oneany.shop
+tandco.shop
 4x.si
 exit.si
 mas.si
@@ -5670,10 +5840,13 @@ abbr.site
 biturl.site
 eranmoney.site
 infs.site
+jinieo.site
+justreleased.site
 kisaca.site
 mst.site
 play-app.site
 promo-visits.site
+sbwiki.site
 shrturl.site
 unshort.site
 urlshortener.site
@@ -5696,8 +5869,12 @@ korta.st
 ls.st
 over.st
 p.st
+ststus.store
+link.zodia.studio
+tiny.zodia.studio
 anp.su
 izi.su
+linkf.su
 sku.su
 suo.su
 z20.su
@@ -5706,6 +5883,7 @@ bitly.team
 b2g.tech
 myaz.tech
 sharem.tech
+thenews24h.tech
 b7.tel
 f1.tf
 url.fti.or.th
@@ -5728,10 +5906,14 @@ chx.to
 cit.to
 dgo.to
 edm.to
+u.g0.to
 gf.to
 gmj.to
+gol.to
 gurl.to
+hopla.to
 huff.to
+inmusic.to
 jio.to
 lingkod.to
 linke.to
@@ -5757,17 +5939,21 @@ videos.pbi.tools
 1link.top
 bitcoinshortener.top
 biturl.top
+cplay.top
 et2.top
 itdmusic.top
 linkgrab.top
 mineurl.top
 mylinks.top
+nwo-s.top
 pastihoki.top
 roids.top
 selink.top
 shorte.top
 shortenurl.top
+vnlink.top
 woah.top
+mdl.town
 alaa.tv
 shorten.tv
 bfy.tw
@@ -5810,6 +5996,7 @@ gourl.us
 grlu.us
 incab.us
 iurl.us
+lltxt.us
 mhi5.us
 mobiusracing.us
 myfonts.us
@@ -5835,12 +6022,17 @@ pi.uz
 clk.vc
 natura.com.vc
 wu.vc
+bb.vg
 124.video
 link-me.vip
+linkrefferal.vip
 megalink.vip
+thesocial.vip
+warung.vip
 1url.vn
 cop.vn
 fee.vn
+url.1.hubs.vn
 link.io.hubs.vn
 jll.vn
 lienket.vn
@@ -5851,13 +6043,19 @@ livebetter.website
 titok.website
 glo.wf
 paw.wf
+agmd.win
 cashurl.win
 dogelexus.win
 hass.win
+liga.win
 loveer.win
+putar.win
+rtpslotmax.win
 shorturl.win
 tinyurl.win
+revisit.work
 shortme.work
+s0.world
 klas.ws
 ka.wtf
 tj.wtf
@@ -5881,14 +6079,18 @@ lillink.xyz
 linkis.xyz
 litt.xyz
 adlinkfly.mightyscripts.xyz
+mightyurl.mightyscripts.xyz
 murls.xyz
 saddr.xyz
+sci-tv.xyz
+shortmds.xyz
 shrinkin.xyz
 snapurl.xyz
 spidz.xyz
 srturl.xyz
 short.swurl.xyz
 tny.xyz
+trisula88short.xyz
 trpd.xyz
 z-der.xyz
 z-url.xyz
@@ -6098,6 +6300,7 @@ ziraatbank.az
 sparkasse.ba
 ziraatbank.ba
 my.helaba.bank
+vostok.bank
 argenta.be
 belfius.be
 online.beobank.be
@@ -9510,6 +9713,7 @@ ibank.ksgbank.com.ua
 oplata.lifecell.com.ua
 metabankonline.com.ua
 ibank.mistobank.com.ua
+monobank.com.ua
 otpbank.com.ua
 otpsmart.com.ua
 p2y.com.ua
@@ -9688,6 +9892,7 @@ bitwarden.com
 cdn-secuchart.com
 completeid.com
 dashlane.com
+app.deel.com
 equifax.com
 experian.com
 f-secure.com
@@ -9932,6 +10137,7 @@ www.2600.com
 tracker.3304399.com
 tracker.36dm.com
 bt.3dmgame.com
+tracker.3moredays.com
 admin.52ywp.com
 bt2.54new.com
 opentracker.acgnx.com
@@ -10159,6 +10365,7 @@ t3.leech.ie
 tracker.leech.ie
 evan.im
 tracker.jordan.im
+torrent.hificode.in
 tr.qfruiti.in
 1337.abcvg.info
 bitsparadise.info
@@ -10200,6 +10407,7 @@ mserver.link
 tr2.cubonegro.lol
 tracker.cubonegro.lol
 bt.rer.lol
+ipv4.rer.lol
 ipv6.rer.lol
 www.zhaohu.love
 tk.mabo.ltd
@@ -10296,6 +10504,7 @@ ns389251.ovh.net
 vps-dd0a0715.vps.ovh.net
 tracker.renfei.net
 mail.segso.net
+retracker.seven-sky.net
 retracker.sevstar.net
 shnflac.net
 shubt.net
@@ -10517,6 +10726,7 @@ tracker.cubicview.site
 kokodayo.site
 tracker.lyretain.site
 tracker.skynetcloud.site
+track3r.site
 tracker.trojangogogo.site
 tracker.aeerso.space
 astrra.space
@@ -10588,6 +10798,7 @@ tracker.k.vu
 vm3268418.24ssd.had.wf
 nyaa.tracker.wf
 sukebei.tracker.wf
+open.va.wiki
 tracker.tvgc.win
 bt-club.ws
 bruh.cluster.ws
@@ -10788,7 +10999,7 @@ newdefend.org
 
 ########## Whitelist from https://raw.githubusercontent.com/blokadaorg/landing-github-pages/master/scripts/whitelist ##########
 
-# Ignored duplicates: 8840
+# Ignored duplicates: 8841
 
 tvaddons.ag
 ckk.ai
@@ -12547,7 +12758,6 @@ consensu.org
 cookielaw.org
 cracking.org
 craigslist.org
-creativecommons.org
 dansguardian.org
 doi.org
 drupal.org
@@ -12753,7 +12963,7 @@ gumtree.co.za
 
 ########## Whitelist from https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Whitelists/Whitelist ##########
 
-# Ignored duplicates: 492
+# Ignored duplicates: 493
 
 oneclient.sfx.ms
 

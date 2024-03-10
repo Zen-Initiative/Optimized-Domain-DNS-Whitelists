@@ -1,5 +1,5 @@
 # Title: Extended Domain/DNS Whitelist (optimized)
-# Updated: 2024-02-10T03:24:05Z
+# Updated: 2024-03-08T21:00:24Z
 # Expires: 31 days (update frequency also depends on upstream sources)
 # Homepage: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/
 # License: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/LICENSE
@@ -690,6 +690,7 @@ menshealth.com
 merriam-webster.com
 mesh.com
 messenger.com
+k2.midasplayer.com
 mlb.com
 mls.com
 msftncsi.com
@@ -860,6 +861,7 @@ tuba.fm
 dl.free.fr
 letribunaldunet.fr
 orange.fr
+comnunidaddemadrid.solution.weborama.fr
 is.gd
 goo.gl
 void.gr
@@ -943,6 +945,7 @@ bokser.org
 dictionary.cambridge.org
 ftp.chocolatey.org
 packages.chocolatey.org
+creativecommons.org
 debian.org
 forum.doom9.org
 secure.dshield.org
@@ -2406,6 +2409,46 @@ interspar.at
 s3.fr-par.scw.cloud
 s3.nl-ams.scw.cloud
 s3.pl-waw.scw.cloud
+s3.dualstack.cn-north-1.amazonaws.com.cn
+s3.dualstack.cn-northwest-1.amazonaws.com.cn
+s3.dualstack.af-south-1.amazonaws.com
+s3.dualstack.ap-east-1.amazonaws.com
+s3.dualstack.ap-northeast-1.amazonaws.com
+s3.dualstack.ap-northeast-2.amazonaws.com
+s3.dualstack.ap-northeast-3.amazonaws.com
+s3.dualstack.ap-south-1.amazonaws.com
+s3.dualstack.ap-south-2.amazonaws.com
+s3.dualstack.ap-southeast-1.amazonaws.com
+s3.dualstack.ap-southeast-2.amazonaws.com
+s3.dualstack.ap-southeast-3.amazonaws.com
+s3.dualstack.ap-southeast-4.amazonaws.com
+s3.dualstack.ca-central-1.amazonaws.com
+s3.dualstack.eu-central-1.amazonaws.com
+s3.dualstack.eu-central-2.amazonaws.com
+s3.dualstack.eu-north-1.amazonaws.com
+s3.dualstack.eu-south-1.amazonaws.com
+s3.dualstack.eu-south-2.amazonaws.com
+s3.dualstack.eu-west-1.amazonaws.com
+s3.dualstack.eu-west-2.amazonaws.com
+s3.dualstack.eu-west-3.amazonaws.com
+s3.dualstack.il-central-1.amazonaws.com
+s3.il-central-1.amazonaws.com
+s3.dualstack.me-central-1.amazonaws.com
+s3.dualstack.me-south-1.amazonaws.com
+s3-ap-south-2.amazonaws.com
+s3-ap-southeast-3.amazonaws.com
+s3-ap-southeast-4.amazonaws.com
+s3-eu-central-2.amazonaws.com
+s3-eu-south-2.amazonaws.com
+s3-il-central-1.amazonaws.com
+s3-me-central-1.amazonaws.com
+s3.dualstack.sa-east-1.amazonaws.com
+s3.dualstack.us-east-1.amazonaws.com
+s3.dualstack.us-east-2.amazonaws.com
+s3.dualstack.us-gov-east-1.amazonaws.com
+s3.dualstack.us-gov-west-1.amazonaws.com
+s3.dualstack.us-west-1.amazonaws.com
+s3.dualstack.us-west-2.amazonaws.com
 ams3.digitaloceanspaces.com
 fra1.digitaloceanspaces.com
 nyc3.digitaloceanspaces.com
