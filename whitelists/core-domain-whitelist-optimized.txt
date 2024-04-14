@@ -1,11 +1,12 @@
 # Title: Core Domain/DNS Whitelist (optimized)
-# Updated: 2024-03-08T21:00:24Z
+# Updated: 2024-04-12T22:00:14Z
 # Expires: 31 days (update frequency also depends on upstream sources)
 # Homepage: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/
 # License: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/LICENSE
 
 apps.media-lab.ai
 js.media-lab.ai
+cdn.bsky.app
 forums.whirlpool.net.au
 btc.prompt.cash
 s3.cn-north-1.amazonaws.com.cn
@@ -13,8 +14,10 @@ s3.cn-northwest-1.amazonaws.com.cn
 s3-cn-north-1.amazonaws.com.cn
 s3-cn-northwest-1.amazonaws.com.cn
 js.datadome.co
+events.streetwriters.co
 a2z.com
 api.accuweather.com
+docs.aws.amazon.com
 s3.af-south-1.amazonaws.com
 s3.ap-east-1.amazonaws.com
 s3.ap-northeast-1.amazonaws.com
@@ -73,17 +76,27 @@ brahe.apptimize.com
 prodapp.babytrackers.com
 sa.bbc.com
 matrix.beeper.com
+api.byndid.com
+app.byndid.com
+app2.byndid.com
+auth.byndid.com
+device-gateway.byndid.com
 p3-passport.byteacctimg.com
 scontent-iad3-1.cdninstagram.com
 ajax.cloudflare.com
 cdnjs.cloudflare.com
 fm.cnbc.com
+www.computop-paygate.com
 capi.connatix.com
 cd.connatix.com
 bootstrap.api.drift.com
 proxy.novafusion.ea.com
+api-access.electricitymaps.com
+app.electricitymaps.com
+de.elv.com
 www.enhance.com
 dcf.espn.com
+my.f-secure.com
 18.foxaholic.com
 www.foxaholic.com
 www.gabia.com
@@ -127,6 +140,8 @@ snap.licdn.com
 static.licdn.com
 jobs.lifehacker.com
 api.log4jmemes.com
+cdn.medifind.com
+www.medifind.com
 definitionupdates.microsoft.com
 download.microsoft.com
 delivery.mp.microsoft.com
@@ -158,10 +173,12 @@ s-passets-cache-ak0.pinimg.com
 v.pinimg.com
 api.pinterest.com
 ct.pinterest.com
+mailserver.purelymail.com
 m.qulishi.com
 www.qulishi.com
 cdn.rawgit.com
 e.reddit.com
+medias.revistaoeste.com
 viewpoint.rigidindustries.com
 www.rigidindustries.com
 forums.roku.com
@@ -169,6 +186,7 @@ cdn.rollbar.com
 insights.samsung.com
 shop.samsung.com
 ec-ns.sascdn.com
+community.simon42.com
 api.skiff.com
 app.skiff.com
 relay-proxy.skiff.com
@@ -181,7 +199,11 @@ weeklyad.target.com
 login.teamviewer.com
 www.techtarget.com
 www.testwise.com
+account.tile.com
+www.tile.com
+app.tuta.com
 www.ultimedia.com
+api.umbrel.com
 unpkg.com
 thumbs.videopress.com
 videos.videopress.com
@@ -472,11 +494,20 @@ imgs.xkcd.com
 dmpsoft.s17.xrea.com
 downloads.zivver.com
 img.zivver.com
+auth.blablacar.de
+edge.blablacar.de
 www.china-gadgets.de
+static.nationalgeographic.de
+www.nationalgeographic.de
+www.queercom.de
 cloudbackup.securepoint.de
 licensing.securepoint.de
 my.securepoint.de
 update.securepoint.de
+img2.tollwood.de
+www.tollwood.de
+tweetdeck.dimden.dev
+online.stat.psu.edu
 logs.datadoghq.eu
 pdst.fm
 webmail.orange.fr
@@ -498,12 +529,15 @@ a1014.g.akamai.net
 a1168.g.akamai.net
 a2047.r.akamai.net
 www.anrdoezrs.net
+element.arcticfoxes.net
+matrix.arcticfoxes.net
 tag.aticdn.net
 cloud.axiadids.net
 d231vab146qzfb.cloudfront.net
 ts01-gyr-maverick.cloudsink.net
 iceprime.a-0003.dc-msedge.net
 dealabs.digidip.net
+teams-office-com.s-0005.dual-s-msedge.net
 cdn.edgesuite.net
 whatismyip.akamai.com.edgesuite.net
 verification-va.byteoversea.com.edgesuite.net
@@ -519,11 +553,14 @@ windowsupdate.nsatc.net
 links.da.slickdeals.net
 sg2p.wns.notify.trafficmanager.net
 vjs.zencdn.net
+www.platformer.news
 easylist-downloads.adblockplus.org
 email-link.adtidy.org
 forum.codeblocks.org
 cdimage.debian.org
 deb.debian.org
+stun.freeswitch.org
+www.freshports.org
 www.ilrc.org
 ip-tracker.org
 api.ipify.org
