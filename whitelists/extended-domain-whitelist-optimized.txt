@@ -1,5 +1,5 @@
 # Title: Extended Domain/DNS Whitelist (optimized)
-# Updated: 2024-04-12T22:00:14Z
+# Updated: 2024-05-10T22:00:18Z
 # Expires: 31 days (update frequency also depends on upstream sources)
 # Homepage: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/
 # License: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/LICENSE
@@ -568,6 +568,7 @@ easybytez.com
 cdn.embedly.com
 engadget.com
 eonline.com
+eulatracking-public-service-prod.ol.epicgames.com
 espn.com
 ew.com
 example.com
@@ -937,6 +938,7 @@ recaptcha.net
 slickdeals.net
 tampermonkey.net
 tusfiles.net
+use.typekit.net
 uploaded.net
 videocopilot.net
 zencdn.net
