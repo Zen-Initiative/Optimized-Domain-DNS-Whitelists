@@ -1,5 +1,5 @@
 # Title: Comprehensive Domain/DNS Whitelist (optimized)
-# Updated: 2024-05-10T22:00:18Z
+# Updated: 2024-06-14T22:00:17Z
 # Expires: 31 days (update frequency also depends on upstream sources)
 # Homepage: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/
 # License: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/LICENSE
@@ -8,7 +8,7 @@
 
 ########## Whitelist from https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt ##########
 
-# Ignored duplicates: 51
+# Ignored duplicates: 52
 
 adc.api.nine.com.au
 grabo.bg
@@ -22,6 +22,7 @@ easylist.club
 bdad.123pan.cn
 datayi.cn
 threatbook.cn
+api-ao-list.adison.co
 axiom.co
 datadome.co
 datafront.co
@@ -360,6 +361,7 @@ online-metrix.net
 ospserver.net
 perfops.net
 pingdom.net
+realwap.net
 rs6.net
 ru.net
 seosprint.net
@@ -402,6 +404,7 @@ top-shop.ru
 toptracker.ru
 uralweb.ru
 vsexshop.ru
+converti.se
 tns-sifo.se
 ippen.space
 adj.st
@@ -3249,7 +3252,6 @@ ludia.gg
 rog.gg
 shorturl.gg
 dl.gl
-gcc.gl
 han.gl
 joo.gl
 ko.gl
@@ -3399,7 +3401,6 @@ zpr.io
 1ea.ir
 1o2.ir
 b2n.ir
-bl1.ir
 casim.ir
 g02.ir
 rizy.ir
@@ -3548,7 +3549,6 @@ vercel.link
 vxn.link
 wa.link
 zuplo.link
-alias.live
 unc.live
 chn.lk
 rotf.lol
@@ -3589,7 +3589,6 @@ klmf.ly
 loom.ly
 mcafee.ly
 mgstn.ly
-mojo.ly
 name.ly
 nature.ly
 nokia.ly
@@ -3868,7 +3867,6 @@ purefla.sh
 skl.sh
 swoo.sh
 trt.sh
-can.si
 dy.si
 0a.sk
 89q.sk
@@ -4106,7 +4104,6 @@ avlne.ws
 bayareane.ws
 bcene.ws
 bfpne.ws
-bitly.ws
 gtne.ws
 kkne.ws
 nvda.ws
@@ -4127,7 +4124,7 @@ wf0.xin
 
 ########## Whitelist from https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener ##########
 
-# Ignored duplicates: 120
+# Ignored duplicates: 117
 
 lib.ac
 ltd.ac
@@ -4152,6 +4149,7 @@ is.am
 vvt.am
 acessa.app
 azipurl.app
+beurl.app
 bitl.app
 breverie.app
 linkfly.app
@@ -4200,6 +4198,7 @@ cutit.bid
 short.bid
 ylink.bid
 myown.bio
+zqq.bio
 anmeld.biz
 gacora.biz
 shorted.biz
@@ -4245,6 +4244,7 @@ uwat.ca
 vabj.ca
 bw.care
 sho.cat
+9o9.cc
 adesta.cc
 adurly.cc
 aim2.cc
@@ -4503,6 +4503,7 @@ botemoda.com
 boxingtrip.com
 bridgeurl.com
 brisktopia.com
+bs303.com
 track3.bsplegalmarketing.com
 bulkurlshortener.com
 buybitcoinsworldwide.com
@@ -4510,6 +4511,7 @@ cactusskyonline.com
 cardiox-care.com
 cash4share.com
 casualient.com
+catbrood.com
 cbshort.com
 cesinthi.com
 change-erp.com
@@ -4562,6 +4564,7 @@ fadurl.com
 famousurl.com
 fasttory.com
 fflowerys.com
+fklit.com
 fl-y.com
 flextrig.com
 flickerlink.com
@@ -4777,6 +4780,7 @@ shycmedi.com
 sigboms.com
 slecastle.com
 slpre.com
+sms-my.com
 soberv.com
 spdurl.com
 splitterhq.com
@@ -4971,6 +4975,7 @@ linkfr.ee
 bitly.email
 deliverable.email
 erath.email
+apll.es
 arn.es
 bibl.es
 dly.es
@@ -4979,6 +4984,7 @@ rwx.es
 salud-url2021.es
 tkz.es
 tnot.es
+trsm.es
 12p.eu
 dalinksavad.eu
 go.egi.eu
@@ -4988,6 +4994,7 @@ hstx.eu
 l00p.eu
 lin-k.eu
 linkshort.eu
+shtlink.eu
 l.webopt.eu
 xn--ul-ksa.eu
 xrshort.eu
@@ -5007,6 +5014,7 @@ b33.fr
 w.big-appli.fr
 gfree.fr
 matwo.fr
+rwz.fr
 shurl.fr
 upfull.fr
 short.mypaste.fun
@@ -5154,6 +5162,7 @@ safly.in
 scts.in
 shlom.in
 shortin.in
+shotcut.in
 shrinkforearn.in
 shrinkme.in
 skro.in
@@ -5204,6 +5213,7 @@ rool.ink
 rpd.ink
 shrt-l.ink
 superbl.ink
+teratai888.ink
 tinyl.ink
 zom.ink
 1ad.io
@@ -5382,6 +5392,7 @@ altstar.link
 alturl.link
 b-ly.link
 bez.link
+boofola.link
 brst.link
 btco.link
 buff.link
@@ -5404,6 +5415,7 @@ hocmai.link
 imboost.link
 iwr.link
 kisa.link
+krohne.link
 leit.link
 linkthis.link
 litly.link
@@ -5414,12 +5426,14 @@ mt77.link
 nils.link
 nin.link
 orts.link
+pekcamke.link
 peppy.link
 ph88.link
 pixel.link
 premex.link
 putar.link
 q8at.link
+rjpl.link
 rx.link
 saasmaster.link
 short-url.link
@@ -5431,6 +5445,7 @@ snpy.link
 sonoran.link
 szag.link
 terakki.link
+togel123.link
 tweetable.link
 ucblib.link
 umu.link
@@ -5447,6 +5462,7 @@ zip.link
 zipurl.link
 zotter.link
 3xs.live
+alias.live
 amzwpe.live
 amzwre.live
 b8my.live
@@ -5496,6 +5512,7 @@ quick.lt
 ur1.lt
 wq.lt
 kem.lu
+s.lu
 thefunkymonkey.lu
 vid.lu
 vla.lu
@@ -5539,12 +5556,14 @@ cutt4.me
 dealc.me
 desin.me
 dkly.me
+dntl.me
 drinks.me
 dsre.me
 eyq.me
 ezbz.me
 ezclick.me
 flrt.me
+gacor22.me
 gacorbos.me
 gef.me
 getblue.me
@@ -5632,6 +5651,7 @@ try.mk
 url.mn
 ipm.mo
 bitly.mobi
+brg.mobi
 kmi.mobi
 mtny.mobi
 nlc.mobi
@@ -5739,6 +5759,7 @@ shortlink.net
 statistics4u.net
 sub2unlock.net
 tahmil.net
+tov1.net
 trackee.net
 trimlink.net
 ujootchu.net
@@ -5813,6 +5834,7 @@ sah.ooo
 173ch1.org
 1ir.org
 6ct.org
+9fx.org
 albn.org
 anacon.org
 apertibumn.org
@@ -5834,6 +5856,7 @@ javadocs.org
 jomblo.org
 kisaurl.org
 linkshrink.org
+linkvip88.org
 lurl.org
 m4rk.org
 moodline.org
@@ -5868,6 +5891,7 @@ gorio.page
 hop2.page
 lenon.page
 lzd.page
+tckl.party
 shrink.pe
 ye.pe
 zip.pe
@@ -5885,6 +5909,7 @@ mii.pm
 tsp.pm
 oh.pn
 123l.pro
+99vpn.pro
 bitli.pro
 byli.pro
 davisonbarker.pro
@@ -5900,6 +5925,7 @@ qlink.pro
 shortify.pro
 surl.pro
 vdio.pro
+wajinlong.pro
 wakgengs.pro
 youris.pro
 tri.ps
@@ -6003,11 +6029,13 @@ drw.sh
 dwz.sh
 pia.sh
 smr.sh
+upt.sh
 vena.sh
 djarum88.shop
 oneany.shop
 tandco.shop
 4x.si
+can.si
 exit.si
 mas.si
 mikgr.si
@@ -6017,6 +6045,7 @@ wy.si
 yx.si
 abbr.site
 biturl.site
+bprl.site
 eranmoney.site
 infs.site
 jinieo.site
@@ -6028,6 +6057,7 @@ promo-visits.site
 sbwiki.site
 shrturl.site
 smlr.site
+sukakata.site
 unshort.site
 urlshortener.site
 shortio.sk
@@ -6124,6 +6154,7 @@ unsw.to
 wheel.to
 wwtt.to
 learnit.today
+gacor.tokyo
 videos.pbi.tools
 1link.top
 bitcoinshortener.top
@@ -6172,6 +6203,7 @@ bitnew.us
 bittraffic.us
 bityj.us
 bofh.us
+butt-link.us
 bwlf.us
 c80.us
 celfam.us
@@ -6214,10 +6246,12 @@ clk.vc
 natura.com.vc
 wu.vc
 bb.vg
+mm.vg
 124.video
 link-me.vip
 linkrefferal.vip
 megalink.vip
+petir.vip
 redly.vip
 thesocial.vip
 warung.vip
@@ -6251,6 +6285,7 @@ revisit.work
 shortme.work
 s0.world
 shorten.world
+bitly.ws
 klas.ws
 ka.wtf
 tj.wtf
@@ -6273,6 +6308,7 @@ kingurl.xyz
 lillink.xyz
 linkis.xyz
 litt.xyz
+lompat.xyz
 maicowa.xyz
 adlinkfly.mightyscripts.xyz
 mightyurl.mightyscripts.xyz
@@ -6777,6 +6813,7 @@ coastcapitalsavings.com
 cobinhood.com
 coinbase.com
 colpatria.com
+combankdigital.com
 secure.commercegate.com
 cbportal.commerzbank.com
 commerzfinanz.com
@@ -7048,6 +7085,7 @@ russobank.com
 sabb.com
 saferpay.com
 samba.com
+sampathvishwa.com
 samsungpop.com
 santanderbank.com
 gws.sauberbank.com
@@ -7148,6 +7186,7 @@ wooribank.com
 secure.yakindogubank.com
 youneedabudget.com
 zaim.com
+fi.cr
 ebanking.eurobank.com.cy
 fr.banquepopulaire.cyberplus
 ib.airbank.cz
@@ -8862,6 +8901,7 @@ virtualbanking.mcb.com.lk
 online.dfcc.lk
 online.hdfc.lk
 ebanking.hnb.lk
+onlinebanking.hnb.lk
 www.indianbank.lk
 internetbank.nsb.lk
 www.payeasy.lk
@@ -9056,6 +9096,7 @@ penfed.org
 redwoodcu.org
 e.sfcu.org
 tiaa.org
+traviscu.org
 uiccu.org
 umcu.org
 upma.org
@@ -10367,6 +10408,7 @@ dht.bt251.com
 tracker.bt4g.com
 tracker.btnext.com
 tr.burnabyhighstar.com
+torrust.canofsocks.com
 tr.cili001.com
 fh2.cmp-gaming.com
 daveking.com
@@ -10474,6 +10516,8 @@ tracker.torrust-demo.com
 tracker.trackerfix.com
 tk1.trackerservers.com
 tk1v6.trackerservers.com
+tk2.trackerservers.com
+tk2v6.trackerservers.com
 tribalmixes.com
 tracker.tricitytorrents.com
 tracker0.ufibox.com
@@ -10557,6 +10601,7 @@ tr.torland.ga
 tracker.trackton.ga
 mail.zasaonsk.ga
 devops.gay
+tracker.gmi.gd
 tracker.hentai.gg
 tracker.btsync.gq
 hzzwly.gq
@@ -10640,6 +10685,7 @@ tracker.nitrix.me
 canardscitrons.nohost.me
 ssb14.nohost.me
 tracker.nullrouted.me
+socket.onvo.me
 9.rarbg.me
 tracker.shkinev.me
 torrent.skynetcenter.me
@@ -10706,6 +10752,7 @@ transkaroo.joustasie.net
 loushao.net
 tracker.madassnews.net
 204.79.238.89.in-addr.arpa.manitu.net
+tracker.midnightprogrammer.net
 tracker.mlsub.net
 trackers.mlsub.net
 torrent.mp3quran.net
@@ -10717,6 +10764,7 @@ o-unkusrx.cloud.okteto.net
 ns389251.ovh.net
 vps-dd0a0715.vps.ovh.net
 tracker.renfei.net
+pybittrack.retiolus.net
 seedpeer.net
 mail.segso.net
 retracker.seven-sky.net
@@ -10858,6 +10906,7 @@ milliontorrent.pl
 tracker.torrentyorg.pl
 tracker.breizh.pm
 track.plop.pm
+tor.rev.pm
 tracker.rev.pm
 tracker.yarr.pt
 udp.yarr.pt
@@ -10874,6 +10923,7 @@ t.zerg.pw
 market-re.quest
 tracker.htp.re
 keke.re
+tracker.bulao.ren
 acg.rip
 tracker.sheesh.rip
 blackz.ro
@@ -10929,6 +10979,7 @@ rt.tace.ru
 trun.tom.ru
 open.touki.ru
 edu.uifr.ru
+trackers.run
 h85-235-17-132.cust.a3fiber.se
 opentracker.acgnx.se
 tracker.acgnx.se
@@ -11016,6 +11067,7 @@ ultra.zt.ua
 buny.uk
 thebytestore.co.uk
 chanchan.uchuu.co.uk
+tracker.draatman.uk
 tracker.nyaa.uk
 tracker.swateam.org.uk
 abufinzio.monocul.us
@@ -11229,7 +11281,7 @@ newdefend.org
 
 ########## Whitelist from https://raw.githubusercontent.com/blokadaorg/landing-github-pages/master/scripts/whitelist ##########
 
-# Ignored duplicates: 8841
+# Ignored duplicates: 8843
 
 tvaddons.ag
 ckk.ai
@@ -12574,8 +12626,6 @@ www.fr
 lnks.gd
 jvc.gg
 shoppy.gg
-crls.pki.goog
-ocsp.pki.goog
 archives.gov
 bls.gov
 ca.gov
@@ -13181,8 +13231,48 @@ gumtree.co.za
 
 ########## Whitelist from https://raw.githubusercontent.com/blokadaorg/landing-github-pages/master/scripts/whitelist-manual ##########
 
-# Ignored duplicates: 252
+# Ignored duplicates: 271
 
+kosmos-prod.netformic.cloud
+download.amd.com
+player.blubrry.com
+assets.braintreegateway.com
+assets.buzzsprout.com
+storage.buzzsprout.com
+products.delight-vr.com
+static.fundraiseup.com
+static.intercomassets.com
+assets.lego.com
+static.libsyn.com
+media.miele.com
+assets.mmsrg.com
+store.evehome.com.hosting.netsuite.com
+fs.npstatic.com
+static-assets-cdn.i.hosted.panopto.com
+media.springernature.com
+assets.steadyhq.com
+static.tacdn.com
+static.tp-link.com
+s.uicdn.com
+assets.website-files.com
+assets.zorincdn.com
+gateway.kleinanzeigen.de
+static.kleinanzeigen.de
+assets.obi.de
+assets.static-bahn.de
+css.static-cache.de
+player.captivate.fm
+heise.cloudimg.io
+static.dwcdn.net
+ir.ebaycdn.net
+assets.mofoprod.net
+assets-prod.sumo.prod.webservices.mozgcp.net
+aadcdn.msftauth.net
+cs486.wpc.2d930.phicdn.net
+edge.gycpi.b.yahoodns.net
+mosaic01.ztat.net
+mosaic02.ztat.net
+static.directferries.co.uk
 
 
 ########## Whitelist from https://raw.githubusercontent.com/zoonderkins/blahdns/master/hosts/whitelist.txt ##########
@@ -13193,13 +13283,17 @@ gumtree.co.za
 
 ########## Whitelist from https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Whitelists/Whitelist ##########
 
-# Ignored duplicates: 500
+# Ignored duplicates: 501
 
 live-f-ava.hulustream.com
 my.microsoftpersonalcontent.com
+n-use1-dw.tplinkcloud.com
 emerald.xboxservices.com
+pki.goog
 oneclient.sfx.ms
 spoppe-b.azureedge.net
+service-hub-builder-ga.prd.pluto.tv
+service-watchlist-ga.prd.pluto.tv
 
 
 ########## Whitelist from https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/tinylist.txt ##########
@@ -13235,7 +13329,7 @@ codeberg.org
 
 ########## Whitelist from https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt ##########
 
-# Ignored duplicates: 3813
+# Ignored duplicates: 3814
 
 www.google.com.af
 www.google.com.ag
@@ -13421,6 +13515,7 @@ www.google.co.il
 amazon.in
 assets-news-bcdn.dailyhunt.in
 origin-ro-api-dhtv.dailyhunt.in
+excelcare.in
 namecoin.info
 gleam.io
 ipfs.io
