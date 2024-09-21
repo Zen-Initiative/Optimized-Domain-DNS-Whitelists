@@ -1,5 +1,5 @@
 # Title: Core Domain/DNS Whitelist (optimized)
-# Updated: 2024-06-14T22:00:17Z
+# Updated: 2024-09-20T22:00:17Z
 # Expires: 31 days (update frequency also depends on upstream sources)
 # Homepage: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/
 # License: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/LICENSE
@@ -76,6 +76,7 @@ brahe.apptimize.com
 prodapp.babytrackers.com
 sa.bbc.com
 matrix.beeper.com
+tags.bkrtx.com
 api.byndid.com
 app.byndid.com
 app2.byndid.com

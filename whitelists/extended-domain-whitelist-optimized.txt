@@ -1,5 +1,5 @@
 # Title: Extended Domain/DNS Whitelist (optimized)
-# Updated: 2024-06-14T22:00:17Z
+# Updated: 2024-09-20T22:00:17Z
 # Expires: 31 days (update frequency also depends on upstream sources)
 # Homepage: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/
 # License: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/LICENSE
@@ -8,7 +8,7 @@
 
 ########## Whitelist from https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt ##########
 
-# Ignored duplicates: 15
+# Ignored duplicates: 16
 
 tags.news.com.au
 adc.api.nine.com.au
@@ -65,6 +65,7 @@ anexia-it.com
 stats.appsflyer.com
 t.appsflyer.com
 apptimize.com
+ashleymadison.com
 atatus.com
 atdmt.com
 auditude.com
@@ -76,6 +77,7 @@ bamgrid.com
 bannerconnect.com
 beanstock.com
 bat.bing.com
+bkrtx.com
 bpmonline.com
 bugherd.com
 bugsnag.com
@@ -149,6 +151,7 @@ hotdogsandads.com
 howsmyssl.com
 html-load.com
 hxtrack.com
+hypestat.com
 i18n-pglstatp.com
 icanhazip.com
 iesnare.com
@@ -159,11 +162,13 @@ ip-adress.com
 ip-api.com
 ip2location.com
 ipstack.com
+iqoption.com
 iterable.com
 jango.com
 justanswer.com
 kampyle.com
 kaptcha.com
+klclick.com
 kqzyfj.com
 kumascans.com
 lasagneandands.com
@@ -231,6 +236,7 @@ recruitics.com
 report-uri.com
 res-x.com
 researchintel.com
+ephemeralcounters.api.roblox.com
 rollbar.com
 rubiconproject.com
 runetki.com
@@ -255,6 +261,7 @@ smartasset.com
 smartmediarep.com
 snap.com
 society6.com
+pv.sohu.com
 sojern.com
 sphdigital.com
 statuscake.com
@@ -308,6 +315,7 @@ pdst.fm
 rb.gy
 prf.hn
 upoint.id
+app.adjust.net.in
 24smi.info
 ipinfo.info
 ad-shield.io
@@ -352,11 +360,14 @@ non.li
 app.link
 bnc.lt
 stats.lt
+reitingi.lv
+top.lv
 awstrack.me
 onelink.me
 remind.me
 2mdn.net
 7eer.net
+data.adobedc.net
 adshell.net
 amgload.net
 anrdoezrs.net
@@ -747,6 +758,7 @@ nexus.passport.com
 pastebin.com
 paypal.com
 people.com
+images.performgroup.com
 pinimg.com
 pinterest.com
 playstation.com
