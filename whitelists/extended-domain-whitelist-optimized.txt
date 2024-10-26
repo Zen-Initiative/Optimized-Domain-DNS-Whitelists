@@ -1,5 +1,5 @@
 # Title: Extended Domain/DNS Whitelist (optimized)
-# Updated: 2024-09-20T22:00:17Z
+# Updated: 2024-10-26T21:53:33Z
 # Expires: 31 days (update frequency also depends on upstream sources)
 # Homepage: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/
 # License: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/LICENSE
@@ -204,6 +204,7 @@ neobux.com
 newrelic.com
 nicequest.com
 nimiq.com
+norstatsurveys.com
 www.npttech.com
 octafx.com
 olymptrade.com
@@ -297,6 +298,7 @@ we-stats.com
 webclicks24.com
 webengage.com
 webtrends.com
+whatfinger.com
 click.engage.xbox.com
 xg4ken.com
 xiti.com
@@ -305,6 +307,7 @@ s.youtube.com
 zenaps.com
 ziffdavis.com
 tw.cx
+benelph.de
 etracker.de
 smartredirect.de
 stroeerdigitalpublishing.de
