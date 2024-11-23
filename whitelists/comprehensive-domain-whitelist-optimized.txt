@@ -1,5 +1,5 @@
 # Title: Comprehensive Domain/DNS Whitelist (optimized)
-# Updated: 2024-10-26T21:53:33Z
+# Updated: 2024-11-23T21:34:46Z
 # Expires: 31 days (update frequency also depends on upstream sources)
 # Homepage: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/
 # License: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/LICENSE
@@ -89,7 +89,9 @@ crashlytics.com
 crowdtwist.com
 css-load.com
 ctrip.com
+curalate.com
 cxense.com
+cxpublic.com
 cy-pr.com
 datadoghq-browser-agent.com
 logs.datadoghq.com
@@ -120,6 +122,7 @@ g17media.com
 georiot.com
 geotrust.com
 getdrip.com
+getresponse.com
 seal.globalsign.com
 gm99.com
 goldbach.com
@@ -328,6 +331,7 @@ seesaa.jp
 team-rec.jp
 shopping.yahooapis.jp
 yads.c.yimg.jp
+collector1.sooplive.co.kr
 non.li
 app.link
 bnc.lt
@@ -437,7 +441,7 @@ trust.zone
 
 ########## Whitelist from https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list ##########
 
-# Ignored duplicates: 167
+# Ignored duplicates: 168
 
 media-lab.ai
 gmx.at
@@ -2817,7 +2821,6 @@ ja.cat
 monster.cat
 small.cat
 2link.cc
-88nb.cc
 98pro.cc
 asin.cc
 azc.cc
@@ -2848,7 +2851,6 @@ mstr.cd
 oe.cd
 sn.cf
 uni.cf
-alleywat.ch
 cockroa.ch
 everri.ch
 gowat.ch
@@ -2977,7 +2979,6 @@ nwppr.co
 nxdr.co
 offerup.co
 ourl.co
-parg.co
 pdora.co
 pepsi.co
 pojonews.co
@@ -3329,7 +3330,6 @@ stuf.in
 toi.in
 trib.in
 ucla.in
-westm.in
 wpbeg.in
 aarp.info
 bbva.info
@@ -3346,7 +3346,6 @@ gtly.ink
 ishort.ink
 zat.ink
 1shop.io
-365edu.io
 agrd.io
 aje.io
 anyimage.io
@@ -3473,7 +3472,6 @@ krazy.la
 mzl.la
 onx.la
 pag.la
-redtag.la
 syb.la
 ume.la
 vai.la
@@ -3886,7 +3884,6 @@ laco.st
 nyp.st
 rol.st
 9splay.store
-nnnna.store
 707.su
 goo.su
 haa.su
@@ -4112,7 +4109,7 @@ wf0.xin
 
 ########## Whitelist from https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener ##########
 
-# Ignored duplicates: 115
+# Ignored duplicates: 113
 
 lib.ac
 ltd.ac
@@ -4184,6 +4181,7 @@ surl.be
 zaq.be
 hu.berlin
 bitly.best
+fighter234.best
 urlshortener.best
 yourls.best
 s.skip.bh
@@ -4196,6 +4194,7 @@ linkmain.bio
 myown.bio
 zqq.bio
 anmeld.biz
+boshoki.biz
 gacora.biz
 sbms.biz
 shorted.biz
@@ -4239,11 +4238,13 @@ peen.ca
 pql.ca
 smghf.ca
 ss777-sl.ca
+tinylink.ca
 trl.ca
 uwat.ca
 vabj.ca
 bw.care
 sho.cat
+88nb.cc
 9o9.cc
 adesta.cc
 adurly.cc
@@ -4263,6 +4264,8 @@ hlink.cc
 ifnews.cc
 j2c.cc
 jppt.cc
+koi800.cc
+ktv303.cc
 liik.cc
 linky.cc
 litl.cc
@@ -4302,6 +4305,7 @@ riverbridge.cf
 shorturl.cf
 awrev.cfd
 blogshare.cfd
+kstry.cfd
 minggu.cfd
 activetea.ch
 chfm.ch
@@ -4317,11 +4321,14 @@ lifeandtime.charity
 aka.ci
 kv.ci
 vrd.ci
+aakem.click
 admediatex.click
 alas.click
 alibuy.click
 cb.click
 goo.click
+gosible5.click
+gosible6.click
 hidude.click
 linkapp.click
 myown.click
@@ -4339,6 +4346,7 @@ megadownload.cloud
 tanzx.cloud
 support-online-mail.cloud.wpontos-app.cloud
 bonustips.club
+maoruan.club
 shorturl.club
 usalbackpacking.club
 em.cm
@@ -4353,6 +4361,7 @@ xmg66.cn
 1nk.co
 3o2.co
 7links.co
+a368.co
 adshort.co
 aitwwl.co
 alternatif.co
@@ -4373,10 +4382,12 @@ exchangle.co
 ezurl.co
 ezyurl.co
 fa-st.co
+find-url.co
 georiot.co
 getcovidtest.co
 gopvote.co
 hbtl.co
+hokie.co
 hrbrg.co
 hsdt.co
 i7i.co
@@ -4399,6 +4410,7 @@ mymst.co
 nrsry.co
 ogms.co
 ottv.co
+parg.co
 picsee.co
 pnut.co
 popfeed.co
@@ -4555,6 +4567,7 @@ claimbtcbits.com
 cli78.com
 clicksfly.com
 clipurl.com
+clktrack.com
 cloudshrinker.com
 cloudtechlinks.com
 clourls.com
@@ -4580,6 +4593,7 @@ davidlloydjr.com
 track3.davydovlaw.com
 losangeles.daype.com
 defigodirect.com
+wwww.destockdrive.com
 detonnot.com
 df-sports.com
 dfgameplay.com
@@ -4597,6 +4611,7 @@ go.drnima.com
 dropmylinks.com
 dukehealthwiki.com
 durvainfratech.com
+dviel.com
 earnshorter.com
 ecomstacking.com
 url.eefocus.com
@@ -4604,6 +4619,7 @@ eg-hr.com
 eg-sale.com
 elfdirect.com
 encorelpmbqs.com
+erdch.com
 erthdaily.com
 eru789.com
 eubok.com
@@ -4628,6 +4644,7 @@ flickerlink.com
 fly4win.com
 funurl.com
 download.fxsound.com
+gacortangandewa.com
 gacortexas.com
 geetlink.com
 geniuslink.com
@@ -4654,10 +4671,12 @@ app.helpline-app.com
 view.helpline-app.com
 herramientasecommerce.com
 hideuri.com
+ly.hkfture.com
 hodroffs.com
 hostvt.com
 h-pp.hotstar.com
 hutbz.com
+iapdw.com
 iblgcr.com
 icutlink.com
 iembelleze.com
@@ -4690,6 +4709,8 @@ kdm-88.com
 kereta-vip.com
 go.koloua.com
 ktckesaria.com
+ktudg.com
+kudaemas88win.com
 l-inked.com
 landoafterschool.com
 leitup.com
@@ -4711,6 +4732,7 @@ linkillion.com
 linkiti.com
 linkkp.com
 linkmonet.com
+linkpug4d.com
 links4money.com
 linkshortenerfree.com
 linkshorteners.com
@@ -4726,6 +4748,7 @@ littlelnk.com
 looktiny.com
 loooves.com
 lr53r.com
+lxddck.com
 lyreck.com
 lz.com
 magnet-mind.com
@@ -4758,6 +4781,7 @@ mstcvk.com
 multishorturl.com
 mundoonatural.com
 murl.com
+t.musixmatch.com
 my-testosterone-reviews.com
 myanlink.com
 myjj789.com
@@ -4783,7 +4807,14 @@ opportunityonlinebusiness.com
 oslash.com
 ouvpg.com
 papertours.com
+pastiberkahh.com
+pastidubai1.com
+pastidubai69.com
+pastiionline.com
+pastikfc.com
+pastimancing.com
 pastionline.com
+pastirokok.com
 yxe3d.paulchavady.com
 payfca.com
 peak-prosperity.com
@@ -4800,6 +4831,7 @@ popsuprstarz.com
 popularssuperstars.com
 pragmaticurl.com
 privad0.com
+psgra.com
 ptolreco.com
 ptr88.com
 jobs.qjobsindia.com
@@ -4839,6 +4871,7 @@ romcomedies.com
 rounash.com
 goo-gl.ru.com
 ruhgsliughs.com
+rxyzpj.com
 s12d.com
 sanantoniocollegenavigator.com
 sangamtalks.com
@@ -4852,6 +4885,7 @@ screeee.com
 s.sebald.com
 secure-dentist.com
 link.sekuritance.com
+seorumahtoto.com
 sgrtldm.com
 sguhslig.com
 shadyurl.com
@@ -4891,10 +4925,13 @@ shtnar.com
 shycmedi.com
 sigboms.com
 sikencang.com
+sikqvt.com
 skiplinko.com
 slamfootball.com
 slecastle.com
+slotamina.com
 slpre.com
+smileybos.com
 sms-my.com
 soberv.com
 spdurl.com
@@ -5013,6 +5050,7 @@ utracky.com
 vanityurlshorteners.com
 veshort.com
 viahold.com
+url.virtualstr8pnp.com
 vnshortener.com
 vp-link.com
 vpnhoki.com
@@ -5020,6 +5058,7 @@ vshorturl.com
 vtaurl.com
 w3dv.com
 walpolevoterguide2024.com
+wceo.com
 webdigraziosi1.com
 go.weplayholding.com
 whyiwu.com
@@ -5043,6 +5082,7 @@ yewwss.com
 yoalizer.com
 ypflx.com
 yu60y8d.com
+yukibio.com
 yuxbb7g.com
 s.zazuko.com
 ziturl.com
@@ -5056,8 +5096,18 @@ ir.cx
 tox.cx
 x3.cx
 bgpmx.cyou
+bttte.cyou
+ccwim.cyou
+cdnlp.cyou
+djulg.cyou
 fugsp.cyou
+ocezt.cyou
+plpct.cyou
 shortly.cyou
+vzofd.cyou
+vzsvi.cyou
+ydofg.cyou
+zasnx.cyou
 zisoj.cyou
 dx1.cz
 vlink.cz
@@ -5165,9 +5215,11 @@ b33.fr
 w.big-appli.fr
 gfree.fr
 matwo.fr
+nordlitt.fr
 rwz.fr
 shurl.fr
 upfull.fr
+389sport.fun
 janjihoki.fun
 main-xgslot88.fun
 mainterus.fun
@@ -5217,6 +5269,7 @@ ki.gy
 ty.gy
 pitt.health
 iii.hm
+garuda.homes
 bitly.host
 relink.host
 urlshort.host
@@ -5225,10 +5278,12 @@ xi.ht
 nnm.hu
 short.assleo.icu
 bitj.icu
+cloudfare.icu
 cwpdk.icu
 linkin.icu
 oo0oo.icu
 puhli.icu
+short.icu
 terp.icu
 uurl.icu
 tel-u.ac.id
@@ -5246,8 +5301,10 @@ rumahide.my.id
 unp.my.id
 projects.id
 shortin.id
+shrink.id
 siklik.id
 simgr.id
+tautin.id
 mamm.ie
 tiny.ie
 toliveal.ie
@@ -5357,6 +5414,7 @@ go.zordo.in
 5rwv.info
 7link.info
 apeltravel.info
+go.appsscript.info
 arrington-j153.info
 artsoflifeo.info
 bcvcurl.info
@@ -5396,6 +5454,7 @@ hyiw.info
 ilinky.info
 infostarenas.info
 jamaica-applicants.info
+jipu.info
 join-id.info
 kharyona.info
 kriizuh-rig-09.info
@@ -5460,6 +5519,7 @@ w-hun-n-9883-gh.info
 webinfos.info
 wheat-td.info
 white-maw.info
+wnwv.info
 worldcinema.info
 xbig.info
 xgpb.info
@@ -5480,9 +5540,11 @@ jl.ink
 lionl.ink
 rool.ink
 rpd.ink
+short.ink
 shrt-l.ink
 superbl.ink
 teratai888.ink
+terbar.ink
 tinyl.ink
 zom.ink
 0ln.io
@@ -5571,6 +5633,7 @@ miniurl.ir
 mmor.ir
 mskb.ir
 pb6.ir
+go.poweren.ir
 radly.ir
 shxi.ir
 trezurl.ir
@@ -5619,6 +5682,7 @@ znz.kr
 dracoo.la
 dtl.la
 lph.la
+mesej.la
 pre.la
 sini.la
 tik.la
@@ -5639,6 +5703,7 @@ cte.li
 djp.li
 dre.li
 drgn.li
+dunia.li
 geg.li
 hmf.li
 iht.li
@@ -5659,6 +5724,7 @@ addict-tt27.life
 adoj36.life
 adrians-guzman-81.life
 adsclicks.life
+adult-haem-home.life
 ai-beast-online.life
 airvin17.life
 aisc.life
@@ -5734,6 +5800,7 @@ firstweber.life
 flamingoclub.life
 flash-point-studios.life
 freefc24code.life
+freesexes.life
 galvanithina8.life
 gary-kopff.life
 gegeshidzedato10.life
@@ -5763,6 +5830,7 @@ jesse-hall-igan112.life
 jilislots.life
 join-live-cam.life
 josue-p-ellis-co.life
+juragankoin88.life
 k-chapman.life
 kaggi-karr.life
 kaleysupport.life
@@ -5869,6 +5937,7 @@ steve-patrick-811.life
 sujanaarch.life
 sweaver.life
 tammy-jo33.life
+tatjanka31sluts.life
 teeny.life
 teenycheck9.life
 teesprints.life
@@ -5880,6 +5949,7 @@ thobaniemncwabe.life
 thoitrang.life
 thongtincanhan.life
 thug-bug-g-928.life
+tiger388.life
 tiny-check-20.life
 tiny-check-9.life
 tinycheck20.life
@@ -5908,6 +5978,8 @@ zeb-ou.life
 zebou.life
 zebous.life
 2bio.link
+88win.link
+altgo.link
 altstar.link
 alturl.link
 b-ly.link
@@ -5920,6 +5992,7 @@ buho.link
 cctor.link
 clipmy.link
 cutur.link
+d138.link
 domi.link
 dpb.link
 drafthound.link
@@ -5943,6 +6016,7 @@ larindahooks.link
 leit.link
 linkthis.link
 litly.link
+macau123.link
 maejo.link
 mampir.link
 mihan.link
@@ -5961,6 +6035,7 @@ pixel.link
 premex.link
 putar.link
 q8at.link
+quee.link
 rjpl.link
 rx.link
 saasmaster.link
@@ -6055,9 +6130,12 @@ euapoio.live
 eurl.live
 eventhivek.live
 ezzs.live
+facebookmarketplace.live
+facebookvideos.live
 fashionmi.live
 fenomen.live
 flash-point-studios.live
+free-sex.live
 fullbreed.live
 fullstacklogan.live
 gaysi.live
@@ -6241,6 +6319,7 @@ cb.lk
 el.lk
 mod.lk
 va.lk
+00oo.lol
 5k.lol
 am.lol
 cml.lol
@@ -6254,6 +6333,7 @@ luto.lol
 pandagemoy.lol
 rxe.lol
 senin.lol
+seogilak.lol
 tdy.lol
 tik.lol
 xixy.lol
@@ -6270,6 +6350,7 @@ thefunkymonkey.lu
 vid.lu
 vla.lu
 0o.lv
+short.profi.lv
 sur.lv
 url.lv
 abit.ly
@@ -6334,6 +6415,7 @@ hlaueriksson.me
 hmp.me
 housga.me
 instaurl.me
+janji.me
 keraskale.me
 kinnto.me
 kla.me
@@ -6422,9 +6504,11 @@ go.westco.mobi
 ytxt.mobi
 linked.mom
 linux.mom
+zeus4d.mom
 inf.money
 4ajsh45.monster
 sexy.jill.survive.from.the.monster
+tiger77.monster
 bx.ms
 fitz.ms
 fts.ms
@@ -6479,6 +6563,7 @@ flyurl.net
 url-shortener.freebusinessapps.net
 ganalytics.net
 gatustox.net
+gayscholarship.net
 gdanstum.net
 go-links.net
 go777.net
@@ -6565,6 +6650,7 @@ dcc.ng
 shar.i.ng
 owlti.ng
 sng.ng
+bos.ngo
 ow.nl
 rtube.nl
 balls.no
@@ -6611,6 +6697,7 @@ recruitings.online
 shrinkeme.online
 slots799.online
 storeman.online
+sulejalan.online
 suvk.online
 t-co.online
 tulinks.online
@@ -6621,6 +6708,7 @@ sah.ooo
 173ch1.org
 1ir.org
 6ct.org
+a.6mqw.org
 9fx.org
 albn.org
 anacon.org
@@ -6639,11 +6727,13 @@ door2door2.org
 efraising.org
 etsgrescore.org
 f5i.org
+gacortexas.org
 getadsnow.org
 gosite.org
 healthiermemphis.org
 analytics.hitsmedia.org
 intrescom.org
+ipgrab.org
 ipkill.org
 isc-vn.org
 javadocs.org
@@ -6677,6 +6767,7 @@ shoturl.org
 shrink-your-link.org
 squeez.org
 y.stadtfabrikanten.org
+texasbisa.org
 tiny-link.org
 tufts-medicine-transportation-hub.org
 tx0.org
@@ -6703,6 +6794,7 @@ cii.pet
 tinyurl.ph
 mikeopierre.photos
 fhseq.pics
+tkjzd.pics
 curl.pk
 safuretech.pk
 1o.pl
@@ -6719,6 +6811,7 @@ oh.pn
 99vpn.pro
 bitli.pro
 byli.pro
+changelink.pro
 cleverlink.pro
 davisonbarker.pro
 getbitly.pro
@@ -6818,6 +6911,7 @@ htgi.ru
 ioui.ru
 lenon-qr.ru
 lilllil.ru
+linkoo.ru
 oqp.ru
 sho-rt.ru
 shorturl.ru
@@ -6829,15 +6923,28 @@ url.rw
 js.sa
 ll.sa
 alwaysdeals.sale
+aplnn.sbs
 beica.sbs
+djteg.sbs
 ffrpa.sbs
+fiqto.sbs
 ftsqk.sbs
 gbblp.sbs
+hbdzx.sbs
+hoheo.sbs
 hrxyb.sbs
 hszci.sbs
+ktbsa.sbs
 lpggy.sbs
 ncluv.sbs
+ozkyx.sbs
+phhph.sbs
+prbgt.sbs
+prcgg.sbs
+sotis.sbs
+vaufs.sbs
 wxdib.sbs
+ycvdh.sbs
 fund.school
 7i.se
 benes.se
@@ -6878,6 +6985,7 @@ wy.si
 yx.si
 abbr.site
 ace777hitamasik.site
+as1ansl0t88.site
 biturl.site
 bprl.site
 elx.site
@@ -6903,6 +7011,7 @@ sukakata.site
 uinw.site
 unshort.site
 urlshortener.site
+vipslot4d.site
 shortio.sk
 tiny.sm
 jame.sn
@@ -6923,6 +7032,7 @@ bradley-parker.social
 tinyurl.software
 recruitings.solutions
 adlinkfly.space
+brevi.space
 jacesantiago.space
 prokura.space
 bui.st
@@ -6933,6 +7043,7 @@ over.st
 p.st
 shorte.st
 freshflowangling.store
+situsslotzeus.store
 ststus.store
 tkshopreview.store
 link.zodia.studio
@@ -6948,6 +7059,7 @@ z20.su
 zhx.su
 bc.tc
 a1b.team
+antinawala.team
 bitly.team
 douyin.team
 b2g.tech
@@ -7017,16 +7129,21 @@ videos.pbi.tools
 bitcoinshortener.top
 biturl.top
 cplay.top
+dlkv.top
 dnmqv.top
 et2.top
 foee.top
 gbdra.top
+gbnbm.top
 gbrqg.top
+hcizp.top
 hjseq.top
 hkwvi.top
 hstpe.top
 itdmusic.top
 linkgrab.top
+lxso.top
+maxwin.top
 mineurl.top
 mylinks.top
 ndbix.top
@@ -7034,14 +7151,19 @@ nwo-s.top
 pastihoki.top
 pokoknya.top
 roids.top
+rxxuy.top
 selink.top
 shorte.top
 shortenurl.top
 sxzlj.top
+t-short.top
 tomasz.top
 vnlink.top
+wndhj.top
+wnvwm.top
 woah.top
 mdl.town
+kimmel.trade
 alaa.tv
 shorten.tv
 bfy.tw
@@ -7086,9 +7208,11 @@ gkurl.us
 golink.us
 gourl.us
 grlu.us
+idvip.us
 incab.us
 iurl.us
 kjd.us
+kristal777.us
 lltxt.us
 mhi5.us
 mobiusracing.us
@@ -7096,6 +7220,7 @@ myfonts.us
 nxm.us
 offlink.us
 qutt.us
+resmiteratai888.us
 s21.us
 s23.us
 sdwone.us
@@ -7104,8 +7229,10 @@ slims.us
 swff.us
 syr.us
 tiny.us
+u.tlht.us
 ucal.us
 urlme.us
+vars.us
 w3n.us
 xiqi.us
 yourcs.us
@@ -7122,7 +7249,11 @@ bb.vg
 mm.vg
 124.video
 dronescapes.video
+q.2qyq.vip
+bolagroup.vip
+bolahiu.vip
 cepatwd.vip
+coklat.vip
 link-me.vip
 linkrefferal.vip
 losblancos.vip
@@ -7131,6 +7262,7 @@ mt88.vip
 petir.vip
 redly.vip
 thesocial.vip
+tuwaga.vip
 warung.vip
 1url.vn
 cop.vn
@@ -7141,6 +7273,7 @@ jll.vn
 lienket.vn
 lnk.vn
 vnl.vn
+shorturl.vtcode.vn
 d.looks.wang
 cryptoguide.website
 livebetter.website
@@ -7150,6 +7283,7 @@ glo.wf
 paw.wf
 0987.win
 agmd.win
+bet200.win
 cashurl.win
 cepatwd.win
 dogelexus.win
@@ -7162,6 +7296,7 @@ rtpslotmax.win
 shorturl.win
 ss777.win
 tinyurl.win
+twitspin.win
 vpn2.win
 buka.wine
 myup.work
@@ -7187,6 +7322,7 @@ atualizeja.xyz
 becakrcg.xyz
 citibanamex.xyz
 cropped.xyz
+cutturl.xyz
 editricity.xyz
 fortunium.xyz
 gacorwak.xyz
@@ -7217,8 +7353,10 @@ n7s.xyz
 ofpagemari.xyz
 ofpagemaria.xyz
 pws1ooo.xyz
+rusuhkali.xyz
 saddr.xyz
 sci-tv.xyz
+shortlink88.xyz
 shortlinksakti.xyz
 shortmds.xyz
 shrinkin.xyz
@@ -7230,6 +7368,7 @@ short.swurl.xyz
 tny.xyz
 trisula88short.xyz
 trpd.xyz
+url.webof.xyz
 y30.xyz
 z-der.xyz
 z-url.xyz
@@ -7405,6 +7544,7 @@ mebank.com.au
 nab.com.au
 rams.com.au
 selfwealth.com.au
+stgeorge.com.au
 suncorp.com.au
 internetbanking.suncorpbank.com.au
 vicsuper.com.au
@@ -11357,6 +11497,7 @@ smtp-relay.odysseylabel.com.au
 tracker.qu.ax
 boysbitte.be
 94-227-232-84.access.telenet.be
+kiryuu-test.mywaifu.best
 rfc5746.mywaifu.best
 tracker.mywaifu.best
 t.overflow.biz
@@ -11379,6 +11520,7 @@ tp.m-team.cc
 tracker.m-team.cc
 opentracker.cc
 region.nl1.privex.cc
+bt1.xxxxbt.cc
 tr.abirxo.cf
 tracker.crawfish.cf
 tracker.kmzs123.cf
@@ -11429,7 +11571,9 @@ tracker.foreverpirates.co
 ln.mtahost.co
 tracker.sloppyta.co
 mts.tvbit.co
+tracker.vanitycore.co
 carr.codes
+0123456789nonexistent.com
 tracker.0x7c0.com
 147job.com
 107.182.30.76.16clouds.com
@@ -11499,6 +11643,7 @@ app.icon256.com
 slicie.icon256.com
 tracker.idocdn.com
 tracker2.indowebster.com
+ismaarino.com
 tracker1.itzmx.com
 tracker2.itzmx.com
 tracker3.itzmx.com
@@ -11694,8 +11839,10 @@ bt2.edwardk.info
 tracker.gbitt.info
 tracker-udp.gbitt.info
 grifon.info
+share.hkg-fansub.info
 reisub.nsupdate.info
 open.nyaatorrents.info
+www.torrentsnipe.info
 admin.videoenpoche.info
 tracker.baka.ink
 open.tracker.ink
@@ -11726,6 +11873,10 @@ megatorrents.kg
 tracker1.bt.moack.co.kr
 chihaya.toss.li
 tracker.jiesen.life
+tk.leechshield.link
+tk4.leechshield.link
+tracker.leechshield.link
+tracker4.leechshield.link
 mserver.link
 tr2.cubonegro.lol
 tracker.cubonegro.lol
@@ -11746,6 +11897,7 @@ h3o2.me
 tracker.kuroy.me
 retracker.lanta.me
 learnbits.me
+tracker.lintk.me
 tracker.moeking.me
 tracker.monitorit4.me
 wg.mortis.me
@@ -11779,6 +11931,7 @@ tracker.logirl.moe
 tracker.waaa.moe
 ipv6.69.mu
 cancela-tu.creditofiscal.mx
+0d.kebhana.mx
 bt.plc.mx
 61626c.net
 torrenttracker.nwc.acsalaska.net
@@ -11892,6 +12045,7 @@ tracker.cubonegro.org
 tracker.dler.org
 tracker2.dler.org
 tracker6.dler.org
+tracker.dmcomic.org
 tracker.dyne.org
 tracker.etree.org
 dfireworks.eu.org
@@ -11915,6 +12069,7 @@ tracker.flashtorrents.org
 funfile.org
 cdn-1.gamecoast.org
 cdn-2.gamecoast.org
+www.genesis-sp.org
 hdreactor.org
 t1.hloli.org
 tracker.ipv6tracker.org
@@ -11939,11 +12094,13 @@ tracker.opentrackr.org
 tracker.parrotlinux.org
 tracker.parrotsec.org
 peerfect.org
+bt.poletracker.org
 public.popcorn-tracker.org
 proaudiotorrents.org
 bt.pusacg.org
 tracker.pussytorrents.org
 tracker.tntvillage.scambioetico.org
+seeders-paradise.org
 bigfoot1942.sektori.org
 soysta-fr1.dev.sercomkc.org
 udp-tracker.shittyurl.org
@@ -11971,8 +12128,10 @@ tracker.vrpnet.org
 tracker1.wimix.org
 shadowshq.yi.org
 bt.zlofenix.org
+tr.zukizuki.org
 tracker.ccp.ovh
 dyndns.xionxiii.ovh
+tracker.moxing.party
 tracker.guguan.000.pe
 ftp.pet
 city21.pk
@@ -11993,6 +12152,7 @@ tracker.dmhy.pw
 discord.heihachi.pw
 home.kray.pw
 moeweb.pw
+tr.nyacat.pw
 tsundere.pw
 open.u-p.pw
 t.zerg.pw
@@ -12048,6 +12208,7 @@ bot.ponomar-sibir.ru
 pxnet.ru
 qtstm32fan.ru
 d40969.acod.regrucolo.ru
+servandroidkino.ru
 soundmovie.ru
 retracker.spark-rostov.ru
 3rt.tace.ru
@@ -12069,6 +12230,7 @@ tracker.darkness.services
 koli.services
 aegir.sexy
 yahor.ftp.sh
+t.jaekr.sh
 jeremylee.sh
 bvarf.tracker.sh
 git.vulnix.sh
@@ -12128,8 +12290,10 @@ tracker.cloudit.top
 tracker.expli.top
 tracker.gcrenwp.top
 sparkle.ghostchu-services.top
+highteahop.top
 tracker.kmzs123.top
 netmap.top
+saltwood.top
 tr2.ysagin.top
 tr3.ysagin.top
 tracker.exorditech.com.tr
@@ -12158,6 +12322,7 @@ tracker.nyaa.uk
 tracker.swateam.org.uk
 abufinzio.monocul.us
 zephir.monocul.us
+7p41a8967.wicp.vip
 home.yxgz.vip
 tracker.k.vu
 vm3268418.24ssd.had.wf
@@ -12174,6 +12339,7 @@ w.wwwww.wtf
 bt.080609.xyz
 chihaya-heroku.120181311.xyz
 t.133335.xyz
+t.213891.xyz
 337hhh.xyz
 bt.3kb.xyz
 960303.xyz
@@ -12204,8 +12370,11 @@ publictracker.xyz
 sabross.xyz
 vibe.sleepyinternetfun.xyz
 t1.tokhmi.xyz
+tracker810.xyz
+open.trackerlist.xyz
 tracker.uw0.xyz
 omg.wtftrackr.xyz
+tracker.xiaoduola.xyz
 tracker.zaluan.xyz
 zecircle.xyz
 tracker.zerobytes.xyz
@@ -12368,7 +12537,7 @@ newdefend.org
 
 ########## Whitelist from https://raw.githubusercontent.com/blokadaorg/landing-github-pages/master/scripts/whitelist ##########
 
-# Ignored duplicates: 9340
+# Ignored duplicates: 9341
 
 tvaddons.ag
 ckk.ai
@@ -12876,7 +13045,6 @@ get-express-vpn.com
 getairmail.com
 getnada.com
 assets.getpocket.com
-getresponse.com
 geo0.ggpht.com
 geo3.ggpht.com
 yt3.ggpht.com
@@ -14400,10 +14568,14 @@ bloximages.newyork1.vip.townnews.com
 
 ########## Whitelist from https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Whitelists/Whitelist ##########
 
-# Ignored duplicates: 544
+# Ignored duplicates: 545
 
+prod.adobeccstatic.com
 ues.svc.ui.com
+pdfnow.adobe.io
+rdc.adobe.io
 honzik.avcdn.net
+akamai.tubi.video
 
 
 ########## Whitelist from https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/tinylist.txt ##########

@@ -1,5 +1,5 @@
 # Title: Core Domain/DNS Whitelist (optimized)
-# Updated: 2024-10-26T21:53:33Z
+# Updated: 2024-11-23T21:34:46Z
 # Expires: 31 days (update frequency also depends on upstream sources)
 # Homepage: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/
 # License: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/LICENSE
@@ -90,6 +90,7 @@ fm.cnbc.com
 www.computop-paygate.com
 capi.connatix.com
 cd.connatix.com
+open-ai.sgp1.digitaloceanspaces.com
 bootstrap.api.drift.com
 proxy.novafusion.ea.com
 api-access.electricitymaps.com

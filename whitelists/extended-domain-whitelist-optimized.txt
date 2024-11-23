@@ -1,5 +1,5 @@
 # Title: Extended Domain/DNS Whitelist (optimized)
-# Updated: 2024-10-26T21:53:33Z
+# Updated: 2024-11-23T21:34:46Z
 # Expires: 31 days (update frequency also depends on upstream sources)
 # Homepage: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/
 # License: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/LICENSE
@@ -101,7 +101,9 @@ crashlytics.com
 crowdtwist.com
 css-load.com
 ctrip.com
+curalate.com
 cxense.com
+cxpublic.com
 cy-pr.com
 datadoghq-browser-agent.com
 logs.datadoghq.com
@@ -133,6 +135,7 @@ g17media.com
 georiot.com
 geotrust.com
 getdrip.com
+getresponse.com
 seal.globalsign.com
 gm99.com
 goldbach.com
@@ -359,6 +362,7 @@ seesaa.jp
 team-rec.jp
 shopping.yahooapis.jp
 yads.c.yimg.jp
+collector1.sooplive.co.kr
 non.li
 app.link
 bnc.lt
@@ -476,7 +480,7 @@ trust.zone
 
 ########## Whitelist from https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list ##########
 
-# Ignored duplicates: 88
+# Ignored duplicates: 89
 
 media-lab.ai
 gmx.at
