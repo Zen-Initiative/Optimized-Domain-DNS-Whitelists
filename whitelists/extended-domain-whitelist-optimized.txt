@@ -1,5 +1,5 @@
 # Title: Extended Domain/DNS Whitelist (optimized)
-# Updated: 2025-03-21T21:32:22Z
+# Updated: 2025-04-25T22:00:22Z
 # Expires: 31 days (update frequency also depends on upstream sources)
 # Homepage: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/
 # License: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/LICENSE
@@ -77,9 +77,11 @@ bamgrid.com
 bannerconnect.com
 beanstock.com
 beyondsecurity.com
+bigpulpit.com
 bat.bing.com
 bkrtx.com
 bpmonline.com
+sw.broadcom.com
 bugherd.com
 bugsnag.com
 bytedance.com
@@ -98,6 +100,7 @@ clustrmaps.com
 confirmit.com
 connatix.com
 content-loader.com
+convertbox.com
 coralogix.com
 crakmedia.com
 crashlytics.com
@@ -113,6 +116,7 @@ logs.datadoghq.com
 db-ip.com
 debugbear.com
 digits.com
+discord.com
 drift.com
 dynamicyield.com
 pulsar.ebay.com
@@ -262,6 +266,7 @@ sendpulse.com
 sexuhot.com
 shareasale.com
 shopimind.com
+shrinkearn.com
 sift.com
 signalfx.com
 simply.com
@@ -491,7 +496,7 @@ trust.zone
 
 ########## Whitelist from https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list ##########
 
-# Ignored duplicates: 89
+# Ignored duplicates: 90
 
 media-lab.ai
 gmx.at
@@ -530,6 +535,7 @@ track.aliexpress.com
 androidforums.com
 answers.com
 apkaward.com
+apkpure.com
 forums.appleinsider.com
 media.architecturaldigest.com
 arstechnica.com
@@ -593,7 +599,6 @@ dell.com
 digg.com
 digitaltrends.com
 directvnow.com
-click.discord.com
 cdn.discordapp.com
 discovermagazine.com
 disqus.com
@@ -945,6 +950,7 @@ bowercdn.net
 players.brightcove.net
 db.local.clamav.net
 tvthemes.plexapp.com.cdn.cloudflare.net
+distributions.crowdin.net
 cdn.datatables.net
 akamai-san24.exacttarget.com.edgekey.net
 static.www.odcdn.com.edgekey.net
