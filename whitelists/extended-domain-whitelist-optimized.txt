@@ -1,5 +1,5 @@
 # Title: Extended Domain/DNS Whitelist (optimized)
-# Updated: 2025-04-25T22:00:22Z
+# Updated: 2025-05-16T23:04:27Z
 # Expires: 31 days (update frequency also depends on upstream sources)
 # Homepage: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/
 # License: https://github.com/Zen-Initiative/Optimized-Domain-DNS-Whitelists/blob/main/LICENSE
@@ -309,6 +309,7 @@ vectorstock.com
 viglink.com
 sonar.viously.com
 visualwebsiteoptimizer.com
+vivocha.com
 voyeurhit.com
 we-stats.com
 webclicks24.com
@@ -456,6 +457,7 @@ p.d.rpts.org
 tracemyip.org
 salesmanago.pl
 adfox.ru
+click.ru
 comagic.ru
 group-ib.ru
 hellywood.ru
@@ -783,6 +785,7 @@ pastebin.com
 paypal.com
 people.com
 images.performgroup.com
+api.picsart.com
 pinimg.com
 pinterest.com
 playstation.com
